@@ -1,0 +1,16 @@
+supplier_id,supplier_name,city,country,category,tier,reliability_score,lead_time_days,payment_terms_days,contact_email,phone,contract_start_date,contract_end_date
+SUP001,Al Rajhi Materials Co.,Riyadh,Saudi Arabia,Raw Materials,A,4.5,23,30,alrajhimater@email.com,+32-328-3341057,2023-01-24,2025-01-23
+SUP002,Gulf Packaging Ltd.,Jeddah,Saudi Arabia,Packaging,A,4.2,26,30,gulfpackagin@email.com,+76-532-1533224,2023-06-24,2024-06-23
+SUP003,Eastern Chemicals Corp.,Dammam,Saudi Arabia,Chemicals,B,3.8,3,30,easternchemi@email.com,+72-303-8038374,2023-02-08,2024-02-08
+SUP004,Dubai Steel Industries,Dubai,UAE,Raw Materials,A,4.6,10,90,dubaisteelin@email.com,+98-925-3678638,2023-05-09,2024-05-08
+SUP005,Nile Textiles Co.,Cairo,Egypt,Textiles,B,3.5,25,90,niletextiles@email.com,+28-881-6647119,2023-03-09,2024-03-08
+SUP006,Turkish Components AG,Istanbul,Turkey,Components,A,4.3,6,30,turkishcompo@email.com,+45-718-5437923,2023-04-04,2025-04-03
+SUP007,Shanghai Electronics Ltd.,Shanghai,China,Electronics,B,3.9,28,30,shanghaielec@email.com,+49-180-5918715,2023-06-15,2024-06-14
+SUP008,Mumbai Plastics Inc.,Mumbai,India,Plastics,C,3.2,29,60,mumbaiplasti@email.com,+6-777-4823498,2023-05-07,2024-05-06
+SUP009,German Precision GmbH,Munich,Germany,Machinery Parts,A,4.8,27,60,germanprecis@email.com,+13-489-5663623,2023-01-28,2024-01-28
+SUP010,Bahrain Logistics Hub,Manama,Bahrain,Packaging,B,3.7,17,60,bahrainlogis@email.com,+27-786-5479144,2023-02-12,2025-02-11
+SUP011,Oman Mineral Resources,Muscat,Oman,Raw Materials,B,3.6,25,30,omanmineralr@email.com,+69-846-5107245,2023-05-21,2024-05-20
+SUP012,Jordan Chemical Works,Amman,Jordan,Chemicals,C,3.1,8,90,jordanchemic@email.com,+88-432-1938483,2023-04-09,2024-04-08
+SUP013,Korean Tech Parts Co.,Seoul,South Korea,Electronics,A,4.4,10,30,koreantechpa@email.com,+9-316-6279418,2023-03-13,2025-03-12
+SUP014,Italian Leather Supplies,Milan,Italy,Textiles,A,4.7,9,90,italianleath@email.com,+19-371-3342608,2023-04-21,2025-04-20
+SUP015,Malay Rubber Industries,Kuala Lumpur,Malaysia,Plastics,B,3.8,10,60,malayrubberi@email.com,+75-508-7073292,2023-06-19,2025-06-18

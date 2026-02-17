@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,city,country,capacity_sqm,used_sqm,status,manager_name,num_employees
+WH001,Riyadh Central Warehouse,Riyadh,Saudi Arabia,50000,35000,Active,Mohammed Al-Farsi,45
+WH002,Jeddah Port Warehouse,Jeddah,Saudi Arabia,40000,32000,Active,Ahmed Hassan,38
+WH003,Dammam Industrial Store,Dammam,Saudi Arabia,35000,24500,Active,Khalid Ibrahim,30
+WH004,Dubai Free Zone Hub,Dubai,UAE,60000,48000,Active,Sara Al-Maktoum,52
+WH005,Jubail Chemical Storage,Jubail,Saudi Arabia,20000,15000,Active,Fatima Nasser,20
+WH006,Madinah Distribution Center,Madinah,Saudi Arabia,25000,12500,Active,Omar Saeed,15

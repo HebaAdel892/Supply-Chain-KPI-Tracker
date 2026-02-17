@@ -1,0 +1,21 @@
+product_id,product_name,category,primary_supplier_id,unit_cost_usd,weight_kg,min_order_qty,reorder_point,safety_stock,shelf_life_days
+PRD001,Industrial Valve A-100,Valves,SUP001,45.5,2.3,25,120,42,
+PRD002,Corrugated Box 40x30,Packaging,SUP002,3.2,0.5,10,490,114,90
+PRD003,Sodium Hydroxide 25kg,Chemicals,SUP003,28.0,25.0,500,266,100,365
+PRD004,Steel Beam H200,Steel,SUP004,120.0,35.0,100,355,177,730
+PRD005,Cotton Fabric Roll 50m,Textiles,SUP005,85.0,12.0,50,333,152,
+PRD006,Circuit Board CB-500,Electronics,SUP006,15.75,0.2,500,419,98,730
+PRD007,LED Display Module,Electronics,SUP007,32.0,0.8,50,443,173,
+PRD008,PVC Pipe 3-inch 6m,Plastics,SUP008,8.5,4.5,50,272,67,
+PRD009,Precision Gear Set PG-10,Machinery,SUP009,210.0,1.5,500,498,207,730
+PRD010,Bubble Wrap Roll 100m,Packaging,SUP010,12.0,3.0,25,309,146,180
+PRD011,Copper Wire Spool 500m,Raw Materials,SUP011,95.0,8.0,500,309,118,90
+PRD012,Sulfuric Acid 10L,Chemicals,SUP012,18.5,10.0,50,440,109,730
+PRD013,Microchip MC-2000,Electronics,SUP013,5.25,0.01,10,356,105,
+PRD014,Premium Leather Sheet,Textiles,SUP014,65.0,2.0,10,235,108,180
+PRD015,Rubber Gasket Set,Plastics,SUP015,7.8,0.3,25,79,21,730
+PRD016,Aluminum Sheet 2mm,Raw Materials,SUP004,55.0,15.0,10,93,39,
+PRD017,Thermal Insulation Foam,Plastics,SUP008,22.0,1.8,200,442,105,365
+PRD018,Stainless Steel Bolt M10,Steel,SUP004,0.85,0.05,200,134,37,730
+PRD019,Polyester Thread 1000m,Textiles,SUP005,4.5,0.6,100,158,75,90
+PRD020,Sensor Module SM-300,Electronics,SUP013,42.0,0.15,500,209,66,180

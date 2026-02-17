@@ -1,0 +1,1001 @@
+record_id,date,origin,destination,shipping_mode,carrier,distance_km,weight_kg,cost_usd,cost_per_kg,cost_per_km,fuel_surcharge_pct,on_time
+TR00001,2024-05-23,Mumbai,Riyadh,Sea Freight,DB Schenker,9121,9271.1,2301.89,0.2483,0.2524,17.9,1
+TR00002,2024-11-29,Dubai,Jubail,Road Transport,Agility Logistics,5824,9877.8,1932.39,0.1956,0.3318,12.4,1
+TR00003,2023-05-24,Munich,Jeddah,Air Freight,NAQEL Express,5700,3174.0,1297.93,0.4089,0.2277,10.1,1
+TR00004,2024-12-01,Riyadh,Riyadh,Road Transport,Aramex,7112,8194.7,2674.2,0.3263,0.376,8.8,1
+TR00005,2023-08-10,Mumbai,Madinah,Express Courier,FedEx,9396,4899.7,2263.37,0.4619,0.2409,12.0,0
+TR00006,2024-12-29,Istanbul,Jubail,Road Transport,DHL Global,4692,3083.2,2466.16,0.7999,0.5256,6.4,1
+TR00007,2023-05-07,Dammam,Dammam,Express Courier,DHL Global,4233,8248.9,1918.88,0.2326,0.4533,13.2,1
+TR00008,2023-04-16,Mumbai,Madinah,Rail,Saudi Post Logistics,4961,3374.4,1230.52,0.3647,0.248,10.2,1
+TR00009,2024-12-19,Dammam,Riyadh,Road Transport,DHL Global,7195,5125.1,3390.83,0.6616,0.4713,7.0,1
+TR00010,2024-06-20,Mumbai,Riyadh,Road Transport,Maersk Line,237,3936.8,446.58,0.1134,1.8843,10.9,1
+TR00011,2024-02-13,Dammam,Dammam,Sea Freight,Aramex,9217,2228.5,2386.55,1.0709,0.2589,3.8,1
+TR00012,2023-07-07,Munich,Jeddah,Air Freight,Saudi Post Logistics,2559,5626.1,1515.6,0.2694,0.5923,7.8,1
+TR00013,2023-05-26,Istanbul,Dubai,Rail,Aramex,1146,5460.9,4078.87,0.7469,3.5592,4.1,1
+TR00014,2024-05-17,Dubai,Dubai,Sea Freight,NAQEL Express,5436,2482.5,1701.92,0.6856,0.3131,11.1,1
+TR00015,2024-08-31,Riyadh,Jeddah,Rail,DHL Global,8675,8755.8,5751.99,0.6569,0.6631,11.0,1
+TR00016,2024-08-21,Dubai,Jeddah,Rail,DHL Global,9656,3426.0,1985.09,0.5794,0.2056,17.7,1
+TR00017,2024-12-09,Dubai,Riyadh,Road Transport,Agility Logistics,5106,2589.7,1652.25,0.638,0.3236,11.2,0
+TR00018,2024-05-11,Shanghai,Madinah,Air Freight,NAQEL Express,5248,9061.3,2701.37,0.2981,0.5147,13.3,1
+TR00019,2023-04-10,Dubai,Dubai,Express Courier,Maersk Line,2175,9074.4,5462.23,0.6019,2.5114,6.6,1
+TR00020,2023-06-08,Riyadh,Madinah,Air Freight,Agility Logistics,1684,8559.1,2079.51,0.243,1.2349,10.6,1
+TR00021,2024-04-28,Dubai,Riyadh,Sea Freight,Maersk Line,9772,5101.1,3976.07,0.7795,0.4069,10.8,1
+TR00022,2023-04-08,Jeddah,Jeddah,Air Freight,Agility Logistics,2877,5614.7,3769.86,0.6714,1.3103,8.5,1
+TR00023,2023-03-05,Jeddah,Dammam,Express Courier,Agility Logistics,7790,1169.6,824.33,0.7048,0.1058,9.5,1
+TR00024,2024-12-21,Riyadh,Jeddah,Rail,Agility Logistics,10117,5302.3,2288.2,0.4315,0.2262,13.1,1
+TR00025,2023-08-03,Istanbul,Jubail,Rail,Aramex,9482,304.0,401.21,1.3198,0.0423,7.2,0
+TR00026,2024-07-12,Dubai,Dubai,Express Courier,DHL Global,10809,4475.3,2786.31,0.6226,0.2578,6.2,0
+TR00027,2023-02-17,Dammam,Jeddah,Sea Freight,DB Schenker,8141,6614.4,2573.37,0.3891,0.3161,4.4,1
+TR00028,2024-08-12,Riyadh,Jubail,Road Transport,Aramex,4609,1079.9,689.31,0.6383,0.1496,15.4,1
+TR00029,2024-04-23,Dammam,Riyadh,Rail,DHL Global,10623,5924.3,3896.75,0.6578,0.3668,6.3,1
+TR00030,2023-05-24,Munich,Jeddah,Air Freight,Maersk Line,8504,5746.6,3912.97,0.6809,0.4601,12.2,1
+TR00031,2024-01-05,Jeddah,Jubail,Road Transport,Agility Logistics,2221,1359.7,978.19,0.7194,0.4404,9.3,1
+TR00032,2023-10-09,Dubai,Dubai,Express Courier,DB Schenker,1095,7711.8,2747.85,0.3563,2.5095,10.8,0
+TR00033,2024-10-22,Riyadh,Jeddah,Express Courier,Maersk Line,1198,9919.1,3908.18,0.394,3.2623,16.3,1
+TR00034,2024-04-19,Shanghai,Jubail,Rail,Aramex,4028,6741.1,4092.55,0.6071,1.016,8.9,1
+TR00035,2024-03-24,Shanghai,Dubai,Rail,Saudi Post Logistics,10733,177.0,570.07,3.2207,0.0531,8.7,1
+TR00036,2023-02-18,Jeddah,Dammam,Air Freight,NAQEL Express,6700,3558.3,2012.47,0.5656,0.3004,6.7,1
+TR00037,2024-01-06,Mumbai,Jubail,Express Courier,FedEx,11459,6259.0,2492.9,0.3983,0.2175,17.7,1
+TR00038,2023-06-27,Jeddah,Madinah,Road Transport,Saudi Post Logistics,11385,4901.6,3500.39,0.7141,0.3075,6.8,0
+TR00039,2024-09-04,Munich,Riyadh,Air Freight,FedEx,6831,2282.0,585.82,0.2567,0.0858,6.4,1
+TR00040,2024-11-13,Munich,Dubai,Sea Freight,Agility Logistics,2004,6176.2,4637.76,0.7509,2.3143,13.9,0
+TR00041,2024-10-18,Jeddah,Madinah,Rail,DHL Global,6791,8817.0,7656.65,0.8684,1.1275,17.4,1
+TR00042,2023-03-31,Riyadh,Dammam,Road Transport,Agility Logistics,8036,7669.0,1787.09,0.233,0.2224,9.8,1
+TR00043,2023-02-05,Munich,Madinah,Road Transport,Aramex,10431,4676.6,4758.68,1.0176,0.4562,4.0,1
+TR00044,2023-12-18,Istanbul,Dammam,Express Courier,Agility Logistics,7280,7488.1,5337.89,0.7128,0.7332,9.2,0
+TR00045,2024-08-11,Dubai,Jubail,Sea Freight,NAQEL Express,5207,8975.6,1476.53,0.1645,0.2836,10.5,1
+TR00046,2024-05-03,Riyadh,Riyadh,Air Freight,Saudi Post Logistics,1815,9263.8,2203.35,0.2378,1.214,4.7,0
+TR00047,2023-02-16,Dammam,Dammam,Air Freight,FedEx,4344,2984.9,2901.82,0.9722,0.668,4.7,1
+TR00048,2023-06-28,Riyadh,Riyadh,Air Freight,Aramex,1220,4171.2,2216.38,0.5314,1.8167,5.1,0
+TR00049,2024-09-18,Dubai,Jubail,Sea Freight,NAQEL Express,2902,9320.4,2051.36,0.2201,0.7069,5.9,0
+TR00050,2024-11-11,Riyadh,Riyadh,Air Freight,FedEx,2838,5473.7,1182.74,0.2161,0.4168,7.0,1
+TR00051,2023-05-22,Dammam,Dammam,Sea Freight,NAQEL Express,5019,7449.5,1222.61,0.1641,0.2436,7.0,0
+TR00052,2024-12-01,Dammam,Dammam,Rail,Agility Logistics,10030,349.4,1403.48,4.0168,0.1399,3.2,1
+TR00053,2024-04-19,Istanbul,Madinah,Express Courier,Maersk Line,4445,8985.3,7115.16,0.7919,1.6007,5.8,0
+TR00054,2023-06-23,Istanbul,Dubai,Express Courier,Aramex,7540,5555.5,3915.31,0.7048,0.5193,5.4,1
+TR00055,2023-12-06,Dubai,Madinah,Express Courier,FedEx,11488,9019.4,2988.83,0.3314,0.2602,7.0,1
+TR00056,2023-07-10,Istanbul,Madinah,Road Transport,Maersk Line,8836,3507.3,1213.52,0.346,0.1373,3.1,1
+TR00057,2023-12-06,Dubai,Riyadh,Air Freight,DB Schenker,8544,2464.5,2804.65,1.138,0.3283,5.7,1
+TR00058,2023-02-20,Istanbul,Dubai,Road Transport,DB Schenker,5573,4567.3,2544.83,0.5572,0.4566,7.9,1
+TR00059,2023-05-19,Dubai,Jubail,Rail,DHL Global,6879,1915.0,957.39,0.4999,0.1392,17.1,1
+TR00060,2024-11-20,Jeddah,Madinah,Rail,FedEx,11273,7502.9,5743.25,0.7655,0.5095,12.2,1
+TR00061,2023-01-16,Shanghai,Dammam,Air Freight,DB Schenker,2435,6594.9,1494.94,0.2267,0.6139,13.2,1
+TR00062,2024-10-25,Riyadh,Dubai,Rail,Agility Logistics,11914,1225.4,1141.91,0.9319,0.0958,14.6,1
+TR00063,2023-08-22,Mumbai,Dammam,Sea Freight,Maersk Line,2854,8185.1,1787.79,0.2184,0.6264,13.6,1
+TR00064,2024-04-11,Istanbul,Madinah,Road Transport,DHL Global,2624,4825.1,867.25,0.1797,0.3305,7.7,1
+TR00065,2023-06-13,Munich,Jeddah,Sea Freight,FedEx,8560,8565.2,2473.8,0.2888,0.289,3.1,1
+TR00066,2024-08-24,Riyadh,Riyadh,Sea Freight,Maersk Line,9210,584.8,992.97,1.698,0.1078,11.4,1
+TR00067,2023-01-04,Dubai,Madinah,Express Courier,NAQEL Express,8433,1140.3,639.97,0.5612,0.0759,10.0,1
+TR00068,2023-06-14,Istanbul,Dammam,Road Transport,Maersk Line,1336,8740.6,2135.96,0.2444,1.5988,7.2,1
+TR00069,2023-12-30,Mumbai,Dammam,Air Freight,NAQEL Express,859,5747.8,1057.29,0.1839,1.2308,12.9,1
+TR00070,2023-06-29,Riyadh,Dammam,Express Courier,FedEx,2314,7116.0,1138.11,0.1599,0.4918,8.6,1
+TR00071,2024-05-08,Mumbai,Dammam,Road Transport,Agility Logistics,3563,1897.5,1977.04,1.0419,0.5549,16.9,1
+TR00072,2023-03-01,Shanghai,Jubail,Air Freight,DB Schenker,8416,2742.5,689.08,0.2513,0.0819,12.2,1
+TR00073,2023-10-26,Dubai,Riyadh,Sea Freight,DHL Global,7158,6444.5,4630.32,0.7185,0.6469,14.1,1
+TR00074,2023-02-16,Shanghai,Dubai,Air Freight,Maersk Line,2680,2803.1,2441.33,0.8709,0.9109,12.2,0
+TR00075,2023-02-02,Riyadh,Dammam,Road Transport,Aramex,3406,2283.7,904.6,0.3961,0.2656,8.3,0
+TR00076,2023-05-06,Dubai,Dammam,Air Freight,DHL Global,5985,930.0,907.8,0.9761,0.1517,6.6,1
+TR00077,2024-08-12,Riyadh,Dammam,Air Freight,NAQEL Express,9553,9108.1,5680.82,0.6237,0.5947,4.6,1
+TR00078,2023-12-09,Munich,Jeddah,Express Courier,NAQEL Express,6388,5546.3,1606.97,0.2897,0.2516,14.4,1
+TR00079,2024-07-22,Dammam,Jubail,Sea Freight,FedEx,6503,1511.4,787.87,0.5213,0.1212,4.8,1
+TR00080,2024-11-17,Dubai,Dubai,Express Courier,Saudi Post Logistics,9305,2367.3,2593.33,1.0955,0.2787,7.0,0
+TR00081,2023-01-29,Mumbai,Dubai,Road Transport,DB Schenker,10402,3920.0,1765.83,0.4505,0.1698,5.7,1
+TR00082,2024-02-05,Dammam,Jubail,Express Courier,Agility Logistics,1602,8407.0,5571.09,0.6627,3.4776,7.5,0
+TR00083,2024-03-04,Riyadh,Dubai,Rail,NAQEL Express,9901,5136.2,3358.09,0.6538,0.3392,8.8,0
+TR00084,2024-06-17,Istanbul,Jubail,Road Transport,FedEx,3844,2060.2,1566.65,0.7604,0.4076,11.3,1
+TR00085,2024-06-17,Mumbai,Jeddah,Road Transport,Maersk Line,5077,5748.1,1589.72,0.2766,0.3131,5.5,0
+TR00086,2023-11-26,Riyadh,Jeddah,Sea Freight,Saudi Post Logistics,3668,6080.6,1757.6,0.2891,0.4792,17.7,1
+TR00087,2023-08-06,Mumbai,Jeddah,Sea Freight,DB Schenker,11899,5112.6,5269.66,1.0307,0.4429,4.1,1
+TR00088,2023-03-07,Dammam,Dubai,Rail,Aramex,1337,9051.3,5998.86,0.6628,4.4868,16.4,1
+TR00089,2024-01-08,Munich,Jeddah,Rail,Saudi Post Logistics,4991,1944.3,1786.95,0.9191,0.358,14.1,1
+TR00090,2023-05-01,Shanghai,Jubail,Sea Freight,DHL Global,6992,104.9,255.84,2.4389,0.0366,7.5,1
+TR00091,2023-06-13,Mumbai,Dammam,Express Courier,Agility Logistics,1978,6485.4,4256.62,0.6563,2.152,14.8,1
+TR00092,2024-06-27,Mumbai,Dammam,Sea Freight,DHL Global,852,8624.2,4209.47,0.4881,4.9407,3.3,0
+TR00093,2023-01-16,Istanbul,Dubai,Sea Freight,Saudi Post Logistics,4892,4836.5,1700.9,0.3517,0.3477,11.1,0
+TR00094,2023-03-04,Dubai,Dubai,Rail,DHL Global,3420,7555.0,4892.22,0.6475,1.4305,7.6,1
+TR00095,2024-12-10,Munich,Riyadh,Sea Freight,Maersk Line,3290,4245.9,1936.43,0.4561,0.5886,17.2,1
+TR00096,2023-06-05,Munich,Madinah,Express Courier,DHL Global,5806,5882.4,4006.32,0.6811,0.69,9.4,0
+TR00097,2023-03-04,Istanbul,Madinah,Road Transport,Saudi Post Logistics,10693,9913.5,7657.45,0.7724,0.7161,8.0,1
+TR00098,2023-09-30,Dammam,Jubail,Road Transport,Maersk Line,10008,403.3,910.29,2.2571,0.091,8.1,0
+TR00099,2024-11-27,Istanbul,Dammam,Road Transport,FedEx,1131,3874.4,3115.94,0.8042,2.755,15.6,1
+TR00100,2023-11-12,Mumbai,Dubai,Air Freight,Maersk Line,8680,7561.7,1176.18,0.1555,0.1355,15.5,1
+TR00101,2024-07-01,Dubai,Riyadh,Sea Freight,DB Schenker,9755,4118.7,2667.7,0.6477,0.2735,9.1,1
+TR00102,2023-09-29,Shanghai,Riyadh,Air Freight,DHL Global,9803,7941.2,1890.33,0.238,0.1928,5.2,1
+TR00103,2023-04-24,Munich,Madinah,Express Courier,DB Schenker,2120,9061.6,1086.64,0.1199,0.5126,5.3,1
+TR00104,2023-08-05,Riyadh,Jeddah,Express Courier,DHL Global,5529,3163.9,1369.43,0.4328,0.2477,5.3,1
+TR00105,2024-08-22,Jeddah,Riyadh,Air Freight,DHL Global,592,3420.6,423.55,0.1238,0.7155,17.7,1
+TR00106,2023-09-25,Shanghai,Jeddah,Air Freight,Agility Logistics,168,7021.0,3120.39,0.4444,18.5738,17.8,1
+TR00107,2023-06-22,Jeddah,Jubail,Sea Freight,Aramex,4138,7319.8,5430.4,0.7419,1.3123,17.9,0
+TR00108,2023-12-05,Shanghai,Riyadh,Express Courier,FedEx,4631,2370.2,1403.65,0.5922,0.3031,14.6,0
+TR00109,2024-08-09,Jeddah,Dammam,Express Courier,Maersk Line,3571,373.8,574.82,1.5378,0.161,15.0,1
+TR00110,2023-07-23,Riyadh,Dubai,Sea Freight,Maersk Line,4106,5131.4,3154.94,0.6148,0.7684,9.2,0
+TR00111,2024-04-05,Istanbul,Riyadh,Air Freight,DB Schenker,3032,5608.7,4513.72,0.8048,1.4887,15.7,1
+TR00112,2023-01-22,Shanghai,Jubail,Sea Freight,DB Schenker,2869,4904.1,858.16,0.175,0.2991,4.2,1
+TR00113,2024-09-09,Mumbai,Dammam,Sea Freight,DB Schenker,9376,8740.1,8081.28,0.9246,0.8619,12.7,1
+TR00114,2023-06-03,Shanghai,Jeddah,Road Transport,Agility Logistics,10564,990.4,1703.25,1.7198,0.1612,16.4,1
+TR00115,2024-10-12,Istanbul,Dubai,Express Courier,Agility Logistics,2384,3737.8,1905.65,0.5098,0.7993,5.1,1
+TR00116,2024-11-15,Riyadh,Dammam,Road Transport,Saudi Post Logistics,9891,210.5,975.74,4.6353,0.0986,6.1,1
+TR00117,2023-09-30,Shanghai,Jubail,Express Courier,DB Schenker,3578,668.7,786.29,1.1758,0.2198,17.1,1
+TR00118,2024-10-30,Dammam,Riyadh,Express Courier,NAQEL Express,10632,4114.8,1144.76,0.2782,0.1077,10.7,1
+TR00119,2024-09-25,Riyadh,Riyadh,Air Freight,Aramex,6693,8825.5,2054.2,0.2328,0.3069,16.2,1
+TR00120,2024-03-05,Dammam,Madinah,Road Transport,DB Schenker,2384,357.8,142.7,0.3988,0.0599,6.0,1
+TR00121,2023-12-12,Munich,Riyadh,Air Freight,NAQEL Express,5854,7213.7,4360.38,0.6045,0.7449,7.3,1
+TR00122,2024-07-27,Riyadh,Riyadh,Air Freight,Agility Logistics,971,8209.8,4116.61,0.5014,4.2396,10.4,1
+TR00123,2023-05-13,Jeddah,Dammam,Air Freight,Saudi Post Logistics,4351,7417.7,4075.84,0.5495,0.9368,9.8,1
+TR00124,2024-08-24,Riyadh,Dammam,Road Transport,NAQEL Express,6506,5878.1,2614.22,0.4447,0.4018,8.3,1
+TR00125,2023-11-01,Munich,Dubai,Sea Freight,NAQEL Express,11281,1645.6,1571.73,0.9551,0.1393,11.9,1
+TR00126,2024-08-24,Mumbai,Madinah,Sea Freight,Saudi Post Logistics,3750,552.7,346.91,0.6277,0.0925,15.6,1
+TR00127,2024-09-16,Munich,Dammam,Sea Freight,Agility Logistics,4098,9404.2,6999.51,0.7443,1.708,8.4,0
+TR00128,2024-05-06,Riyadh,Riyadh,Express Courier,NAQEL Express,4753,711.0,828.83,1.1657,0.1744,17.2,1
+TR00129,2023-04-28,Riyadh,Madinah,Sea Freight,FedEx,10938,2183.0,1202.12,0.5507,0.1099,10.7,1
+TR00130,2024-08-19,Mumbai,Madinah,Sea Freight,DB Schenker,11374,3897.5,2048.29,0.5255,0.1801,17.4,1
+TR00131,2023-08-25,Jeddah,Dubai,Express Courier,Maersk Line,740,5867.2,652.1,0.1111,0.8812,10.2,1
+TR00132,2023-04-07,Mumbai,Riyadh,Road Transport,DHL Global,10104,4946.1,4077.01,0.8243,0.4035,10.9,1
+TR00133,2024-11-30,Jeddah,Jubail,Rail,Saudi Post Logistics,4805,3723.1,2221.14,0.5966,0.4623,13.9,1
+TR00134,2024-12-28,Istanbul,Madinah,Rail,Maersk Line,4879,7804.3,5004.49,0.6412,1.0257,16.7,1
+TR00135,2023-03-01,Jeddah,Dubai,Air Freight,Saudi Post Logistics,9493,4501.1,4244.74,0.943,0.4471,11.7,0
+TR00136,2023-04-03,Dubai,Madinah,Air Freight,DHL Global,1976,9726.7,3242.1,0.3333,1.6407,15.7,1
+TR00137,2024-08-26,Istanbul,Riyadh,Road Transport,NAQEL Express,9536,8237.0,2990.0,0.363,0.3135,10.6,1
+TR00138,2024-09-02,Shanghai,Madinah,Sea Freight,FedEx,10975,2548.8,1237.61,0.4856,0.1128,13.0,1
+TR00139,2023-10-13,Riyadh,Dubai,Sea Freight,Saudi Post Logistics,4808,3367.9,766.41,0.2276,0.1594,4.6,1
+TR00140,2023-09-04,Jeddah,Dubai,Rail,Agility Logistics,5769,1232.7,1666.2,1.3517,0.2888,14.6,0
+TR00141,2023-09-18,Riyadh,Jeddah,Rail,DB Schenker,787,1480.7,312.61,0.2111,0.3972,10.6,0
+TR00142,2024-07-25,Dubai,Jeddah,Air Freight,Agility Logistics,2638,1311.9,807.84,0.6158,0.3062,11.1,1
+TR00143,2023-09-30,Munich,Jeddah,Express Courier,DHL Global,5487,3772.3,1173.56,0.3111,0.2139,11.8,1
+TR00144,2024-02-22,Dammam,Jeddah,Sea Freight,DHL Global,10426,4676.1,1696.12,0.3627,0.1627,17.1,1
+TR00145,2023-05-09,Shanghai,Jeddah,Sea Freight,DB Schenker,4279,851.7,799.85,0.9391,0.1869,15.7,1
+TR00146,2023-03-03,Munich,Jeddah,Rail,DB Schenker,9414,6946.0,5080.74,0.7315,0.5397,3.8,0
+TR00147,2023-05-04,Dammam,Jubail,Rail,Aramex,9489,2360.7,2971.43,1.2587,0.3131,8.7,1
+TR00148,2024-06-02,Istanbul,Dammam,Rail,Maersk Line,560,7964.4,1868.12,0.2346,3.3359,8.1,1
+TR00149,2024-05-17,Riyadh,Jeddah,Road Transport,FedEx,5729,7496.2,1638.79,0.2186,0.2861,8.8,1
+TR00150,2024-12-06,Munich,Jubail,Rail,FedEx,6913,7294.5,2189.49,0.3002,0.3167,12.0,1
+TR00151,2024-08-23,Shanghai,Jubail,Air Freight,DB Schenker,8110,4503.9,1977.55,0.4391,0.2438,7.5,1
+TR00152,2023-07-20,Dubai,Dammam,Road Transport,DHL Global,10082,457.9,488.41,1.0666,0.0484,5.7,1
+TR00153,2023-07-25,Shanghai,Jeddah,Sea Freight,NAQEL Express,4287,5059.9,1903.84,0.3763,0.4441,9.9,1
+TR00154,2024-01-30,Mumbai,Jeddah,Air Freight,NAQEL Express,1338,6085.9,3448.41,0.5666,2.5773,3.3,1
+TR00155,2023-02-06,Riyadh,Madinah,Rail,NAQEL Express,119,5177.8,3761.0,0.7264,31.605,10.9,1
+TR00156,2024-06-23,Riyadh,Jubail,Express Courier,NAQEL Express,3908,7767.4,1654.97,0.2131,0.4235,10.6,1
+TR00157,2024-09-23,Jeddah,Dubai,Rail,Aramex,3281,9417.3,7810.33,0.8294,2.3805,11.4,1
+TR00158,2023-12-31,Jeddah,Jeddah,Rail,Aramex,8337,5038.1,1814.71,0.3602,0.2177,5.7,0
+TR00159,2024-08-15,Munich,Jubail,Sea Freight,DB Schenker,3671,762.4,707.7,0.9283,0.1928,13.4,1
+TR00160,2023-07-30,Dubai,Jeddah,Express Courier,NAQEL Express,11171,7878.9,3220.65,0.4088,0.2883,7.8,1
+TR00161,2024-07-12,Jeddah,Riyadh,Sea Freight,Maersk Line,10133,5630.2,4530.75,0.8047,0.4471,16.1,1
+TR00162,2024-07-12,Jeddah,Dubai,Sea Freight,Aramex,8381,1202.6,1421.43,1.182,0.1696,6.6,1
+TR00163,2023-02-03,Jeddah,Riyadh,Road Transport,DB Schenker,527,9086.6,5869.32,0.6459,11.1372,6.0,0
+TR00164,2024-09-19,Istanbul,Madinah,Sea Freight,Maersk Line,7576,488.0,515.21,1.0558,0.068,9.4,1
+TR00165,2024-05-18,Munich,Riyadh,Express Courier,Agility Logistics,9635,5219.0,2113.2,0.4049,0.2193,4.7,1
+TR00166,2023-06-30,Istanbul,Riyadh,Express Courier,DB Schenker,10254,1542.7,1832.84,1.1881,0.1787,7.6,1
+TR00167,2024-09-06,Mumbai,Dubai,Rail,Agility Logistics,9060,1737.3,2142.42,1.2332,0.2365,13.6,1
+TR00168,2024-07-28,Riyadh,Dammam,Sea Freight,NAQEL Express,10161,6327.2,4550.08,0.7191,0.4478,16.7,1
+TR00169,2023-08-18,Mumbai,Riyadh,Sea Freight,FedEx,7324,3903.6,1065.03,0.2728,0.1454,10.8,1
+TR00170,2023-03-03,Dubai,Madinah,Road Transport,NAQEL Express,1367,164.7,193.34,1.1739,0.1414,17.2,0
+TR00171,2023-07-18,Jeddah,Jubail,Air Freight,Agility Logistics,7388,8356.6,2675.43,0.3202,0.3621,13.4,1
+TR00172,2024-11-20,Jeddah,Dubai,Sea Freight,DB Schenker,5839,8369.6,3471.66,0.4148,0.5946,4.6,1
+TR00173,2023-06-19,Riyadh,Jubail,Air Freight,Maersk Line,8961,870.0,675.45,0.7764,0.0754,4.7,1
+TR00174,2023-12-14,Riyadh,Jeddah,Rail,Aramex,5464,6505.9,3405.49,0.5234,0.6233,14.7,1
+TR00175,2024-09-11,Mumbai,Madinah,Road Transport,FedEx,6391,1212.6,805.13,0.664,0.126,16.5,1
+TR00176,2024-07-11,Dammam,Dammam,Air Freight,DB Schenker,8659,8716.3,6812.93,0.7816,0.7868,3.1,1
+TR00177,2023-12-06,Munich,Jubail,Air Freight,FedEx,6355,1791.3,1296.14,0.7236,0.204,4.6,1
+TR00178,2023-12-14,Riyadh,Jeddah,Road Transport,Saudi Post Logistics,5252,7843.7,6428.53,0.8196,1.224,10.7,1
+TR00179,2024-12-09,Riyadh,Madinah,Express Courier,Maersk Line,6470,6990.4,5178.44,0.7408,0.8004,17.2,1
+TR00180,2024-08-16,Dammam,Riyadh,Road Transport,DB Schenker,1581,2469.2,1742.86,0.7058,1.1024,5.6,1
+TR00181,2024-09-21,Jeddah,Jeddah,Rail,DHL Global,6595,9283.1,5339.34,0.5752,0.8096,12.3,0
+TR00182,2024-10-20,Riyadh,Riyadh,Rail,DB Schenker,1270,7629.0,5432.19,0.712,4.2773,3.5,1
+TR00183,2023-02-25,Jeddah,Jeddah,Air Freight,DHL Global,2290,3616.9,2683.09,0.7418,1.1717,14.8,1
+TR00184,2023-06-06,Dubai,Madinah,Rail,DB Schenker,8487,8646.8,4804.78,0.5557,0.5661,13.4,1
+TR00185,2024-10-24,Istanbul,Madinah,Express Courier,Maersk Line,11564,1371.7,917.95,0.6692,0.0794,4.6,1
+TR00186,2024-04-23,Jeddah,Jeddah,Rail,DB Schenker,3025,8090.6,5371.74,0.6639,1.7758,7.8,1
+TR00187,2024-08-04,Mumbai,Jeddah,Sea Freight,Maersk Line,4405,4094.7,2280.75,0.557,0.5178,11.9,1
+TR00188,2023-05-03,Jeddah,Riyadh,Road Transport,DB Schenker,11993,9212.3,4981.15,0.5407,0.4153,13.5,1
+TR00189,2024-12-20,Shanghai,Madinah,Road Transport,FedEx,4884,229.7,197.35,0.8592,0.0404,14.6,0
+TR00190,2024-05-27,Jeddah,Madinah,Road Transport,Saudi Post Logistics,7495,8057.2,5709.56,0.7086,0.7618,8.4,1
+TR00191,2024-01-15,Munich,Jeddah,Express Courier,Saudi Post Logistics,6030,130.4,866.28,6.6433,0.1437,7.2,1
+TR00192,2024-06-15,Munich,Dubai,Sea Freight,Saudi Post Logistics,5054,203.1,748.1,3.6834,0.148,5.6,0
+TR00193,2024-11-19,Dubai,Dammam,Rail,Agility Logistics,2800,6007.9,3740.99,0.6227,1.3361,7.4,1
+TR00194,2023-10-09,Mumbai,Dubai,Express Courier,Saudi Post Logistics,7493,1950.7,1255.79,0.6438,0.1676,8.6,0
+TR00195,2023-12-10,Riyadh,Riyadh,Air Freight,FedEx,11257,7876.7,5498.02,0.698,0.4884,17.1,1
+TR00196,2024-01-23,Munich,Madinah,Air Freight,Agility Logistics,6254,885.3,1171.24,1.323,0.1873,7.9,1
+TR00197,2023-02-12,Istanbul,Jeddah,Sea Freight,DB Schenker,3637,8003.1,6048.1,0.7557,1.6629,15.4,1
+TR00198,2023-01-18,Jeddah,Dubai,Air Freight,Maersk Line,1856,7985.8,3068.9,0.3843,1.6535,6.6,1
+TR00199,2024-07-19,Istanbul,Madinah,Road Transport,Agility Logistics,7030,4225.0,1526.98,0.3614,0.2172,17.9,1
+TR00200,2023-05-08,Mumbai,Dubai,Air Freight,DHL Global,3046,1766.5,1343.3,0.7604,0.441,6.8,1
+TR00201,2024-11-04,Istanbul,Riyadh,Road Transport,Agility Logistics,9407,646.9,1367.89,2.1145,0.1454,16.4,1
+TR00202,2023-09-18,Shanghai,Dubai,Rail,DB Schenker,5005,1462.8,367.29,0.2511,0.0734,9.2,1
+TR00203,2024-09-17,Riyadh,Dammam,Air Freight,Maersk Line,3807,1793.7,1630.76,0.9092,0.4284,4.3,1
+TR00204,2024-10-09,Munich,Riyadh,Sea Freight,DB Schenker,373,6797.2,5126.39,0.7542,13.7437,6.9,1
+TR00205,2024-02-15,Dubai,Madinah,Express Courier,Aramex,2358,5221.8,821.01,0.1572,0.3482,7.6,1
+TR00206,2024-10-06,Munich,Madinah,Sea Freight,Saudi Post Logistics,10438,4987.8,2717.19,0.5448,0.2603,3.9,0
+TR00207,2023-10-03,Jeddah,Jubail,Air Freight,DHL Global,8427,6061.8,4514.72,0.7448,0.5357,16.9,1
+TR00208,2023-01-02,Istanbul,Dubai,Express Courier,Aramex,1731,3415.0,572.75,0.1677,0.3309,16.7,0
+TR00209,2023-01-25,Istanbul,Dubai,Rail,DB Schenker,8301,9268.8,6725.14,0.7256,0.8102,14.6,1
+TR00210,2024-09-20,Riyadh,Jeddah,Air Freight,Maersk Line,3994,8829.9,3295.44,0.3732,0.8251,12.6,0
+TR00211,2024-06-07,Jeddah,Jeddah,Sea Freight,DHL Global,2277,988.1,556.23,0.5629,0.2443,7.3,1
+TR00212,2024-04-18,Jeddah,Madinah,Sea Freight,FedEx,4223,1229.2,821.41,0.6682,0.1945,9.5,0
+TR00213,2024-08-03,Jeddah,Dubai,Express Courier,Saudi Post Logistics,3536,4216.1,1750.35,0.4152,0.495,3.4,0
+TR00214,2024-08-25,Istanbul,Jubail,Sea Freight,Aramex,5363,7101.2,5463.28,0.7693,1.0187,10.1,1
+TR00215,2024-05-07,Dubai,Jeddah,Rail,Saudi Post Logistics,11732,9526.5,5731.96,0.6017,0.4886,16.0,1
+TR00216,2023-12-19,Dammam,Madinah,Express Courier,DB Schenker,1077,4152.4,2132.75,0.5136,1.9803,9.4,1
+TR00217,2024-05-27,Mumbai,Dammam,Air Freight,Saudi Post Logistics,6851,4635.9,2979.35,0.6427,0.4349,12.2,0
+TR00218,2023-11-26,Shanghai,Riyadh,Sea Freight,Agility Logistics,10959,7514.8,6227.21,0.8287,0.5682,4.3,1
+TR00219,2023-10-23,Riyadh,Dubai,Road Transport,Aramex,5030,1474.4,1887.68,1.2803,0.3753,14.5,1
+TR00220,2024-08-22,Istanbul,Madinah,Rail,Agility Logistics,8509,4329.6,3945.24,0.9112,0.4637,3.8,1
+TR00221,2023-06-28,Jeddah,Jubail,Sea Freight,DB Schenker,1923,7658.3,5567.78,0.727,2.8954,12.6,1
+TR00222,2023-02-12,Shanghai,Madinah,Rail,Maersk Line,3503,5561.0,775.98,0.1395,0.2215,4.1,1
+TR00223,2024-01-14,Mumbai,Jubail,Rail,Maersk Line,1189,5432.7,3182.65,0.5858,2.6767,10.1,1
+TR00224,2023-01-21,Dammam,Dammam,Road Transport,Agility Logistics,274,6870.2,2110.63,0.3072,7.703,6.5,1
+TR00225,2023-05-03,Dubai,Riyadh,Air Freight,Aramex,3273,5743.7,3523.19,0.6134,1.0764,7.1,1
+TR00226,2024-04-06,Jeddah,Jeddah,Air Freight,DB Schenker,4177,4913.7,2813.93,0.5727,0.6737,5.0,1
+TR00227,2024-02-04,Mumbai,Dubai,Rail,FedEx,6109,9150.0,7309.39,0.7988,1.1965,17.7,1
+TR00228,2024-11-19,Istanbul,Jubail,Sea Freight,NAQEL Express,11588,9914.3,5206.31,0.5251,0.4493,5.2,1
+TR00229,2024-02-19,Dubai,Dammam,Express Courier,Saudi Post Logistics,4900,5968.6,3778.56,0.6331,0.7711,15.5,1
+TR00230,2023-02-12,Riyadh,Dammam,Express Courier,FedEx,2474,4280.5,2571.7,0.6008,1.0395,9.1,1
+TR00231,2023-08-26,Riyadh,Riyadh,Rail,Aramex,11799,996.0,633.02,0.6356,0.0537,5.7,1
+TR00232,2023-09-07,Dubai,Jeddah,Express Courier,Saudi Post Logistics,10280,7249.8,4278.3,0.5901,0.4162,16.4,1
+TR00233,2023-03-19,Istanbul,Dubai,Sea Freight,Maersk Line,6340,3524.1,969.22,0.275,0.1529,10.7,0
+TR00234,2023-06-25,Dammam,Jubail,Air Freight,FedEx,6258,7656.5,2536.17,0.3312,0.4053,7.1,0
+TR00235,2024-09-21,Istanbul,Riyadh,Road Transport,Aramex,594,7251.0,3526.18,0.4863,5.9363,16.3,1
+TR00236,2024-11-25,Munich,Dubai,Express Courier,DHL Global,3208,8039.7,1589.71,0.1977,0.4955,10.5,1
+TR00237,2023-02-08,Shanghai,Madinah,Rail,DHL Global,8709,5356.8,3156.5,0.5893,0.3624,12.5,1
+TR00238,2024-05-23,Istanbul,Jubail,Sea Freight,Saudi Post Logistics,4214,3639.6,753.07,0.2069,0.1787,12.9,1
+TR00239,2023-04-18,Munich,Riyadh,Sea Freight,DHL Global,3570,4192.2,1064.32,0.2539,0.2981,4.0,1
+TR00240,2024-04-01,Istanbul,Madinah,Sea Freight,FedEx,6683,3165.3,2726.58,0.8614,0.408,15.1,1
+TR00241,2023-12-31,Istanbul,Madinah,Road Transport,Aramex,1705,7214.0,5332.79,0.7392,3.1277,12.0,1
+TR00242,2023-11-26,Shanghai,Riyadh,Road Transport,FedEx,655,1037.2,613.25,0.5913,0.9363,5.7,0
+TR00243,2024-04-17,Dubai,Jubail,Air Freight,Aramex,5391,8993.3,3800.16,0.4226,0.7049,4.4,0
+TR00244,2023-09-27,Dubai,Riyadh,Express Courier,Maersk Line,4819,3272.7,2248.54,0.6871,0.4666,5.6,1
+TR00245,2023-10-30,Munich,Dammam,Road Transport,NAQEL Express,7197,6012.6,5193.42,0.8638,0.7216,8.2,1
+TR00246,2024-10-19,Shanghai,Jubail,Express Courier,DHL Global,7804,1584.0,1532.87,0.9677,0.1964,5.2,1
+TR00247,2024-09-07,Dammam,Jubail,Air Freight,DB Schenker,1457,6088.4,2814.25,0.4622,1.9315,15.6,1
+TR00248,2023-08-28,Dubai,Riyadh,Rail,Saudi Post Logistics,5711,9654.6,6971.94,0.7221,1.2208,9.8,1
+TR00249,2023-09-05,Mumbai,Dammam,Air Freight,Aramex,124,7009.3,1339.0,0.191,10.7984,15.6,1
+TR00250,2023-04-12,Munich,Jubail,Sea Freight,Maersk Line,1481,8149.4,4090.86,0.502,2.7622,14.7,0
+TR00251,2023-12-17,Jeddah,Jubail,Air Freight,DB Schenker,8996,5519.6,2384.26,0.432,0.265,13.6,1
+TR00252,2024-07-30,Istanbul,Madinah,Air Freight,Saudi Post Logistics,5003,433.6,331.75,0.7651,0.0663,8.9,1
+TR00253,2024-01-31,Riyadh,Dubai,Road Transport,Agility Logistics,5084,9029.9,7155.74,0.7924,1.4075,3.2,1
+TR00254,2024-09-17,Mumbai,Riyadh,Express Courier,DHL Global,5523,5045.1,4040.44,0.8009,0.7316,3.0,1
+TR00255,2024-12-20,Dubai,Dubai,Rail,Aramex,2548,6072.6,4635.18,0.7633,1.8191,5.4,1
+TR00256,2023-09-08,Istanbul,Dammam,Air Freight,DHL Global,2168,2038.2,1145.28,0.5619,0.5283,7.0,0
+TR00257,2024-08-08,Shanghai,Riyadh,Express Courier,DB Schenker,4891,2833.8,2156.19,0.7609,0.4408,17.7,1
+TR00258,2023-07-11,Shanghai,Dammam,Rail,NAQEL Express,3109,4534.6,3360.42,0.7411,1.0809,16.5,0
+TR00259,2023-06-16,Jeddah,Riyadh,Express Courier,Maersk Line,8405,9952.3,7397.42,0.7433,0.8801,12.7,0
+TR00260,2024-11-11,Dubai,Madinah,Sea Freight,NAQEL Express,4555,2222.5,2047.17,0.9211,0.4494,12.7,0
+TR00261,2024-09-14,Riyadh,Jeddah,Air Freight,DHL Global,10844,4355.3,2262.62,0.5195,0.2087,15.4,0
+TR00262,2024-03-13,Munich,Jeddah,Air Freight,NAQEL Express,6208,822.3,652.6,0.7936,0.1051,9.6,1
+TR00263,2024-07-24,Munich,Dubai,Rail,Saudi Post Logistics,10565,7382.1,3507.61,0.4752,0.332,7.4,1
+TR00264,2024-11-10,Munich,Riyadh,Road Transport,Maersk Line,2277,6956.3,1435.32,0.2063,0.6304,3.2,1
+TR00265,2024-06-07,Dubai,Jubail,Express Courier,Aramex,5444,7726.3,1466.69,0.1898,0.2694,5.2,0
+TR00266,2023-12-28,Mumbai,Dubai,Air Freight,Agility Logistics,7488,9143.7,5839.77,0.6387,0.7799,15.8,0
+TR00267,2023-11-08,Dubai,Jeddah,Air Freight,Aramex,9074,2000.4,2522.47,1.261,0.278,16.9,1
+TR00268,2024-11-19,Munich,Jeddah,Air Freight,Aramex,550,3080.4,378.36,0.1228,0.6879,3.4,1
+TR00269,2023-08-10,Shanghai,Dammam,Road Transport,Agility Logistics,3080,8222.0,5257.81,0.6395,1.7071,15.0,0
+TR00270,2024-05-27,Jeddah,Jubail,Air Freight,NAQEL Express,2936,2832.9,954.81,0.337,0.3252,9.7,1
+TR00271,2023-09-29,Shanghai,Dammam,Air Freight,NAQEL Express,6333,9106.4,4679.81,0.5139,0.739,5.3,1
+TR00272,2024-08-07,Shanghai,Madinah,Road Transport,Aramex,8179,3558.6,1848.74,0.5195,0.226,11.3,1
+TR00273,2024-10-08,Shanghai,Riyadh,Air Freight,Maersk Line,100,5113.7,3366.25,0.6583,33.6625,9.6,1
+TR00274,2023-05-31,Dubai,Dammam,Express Courier,DHL Global,6509,5681.1,3353.26,0.5902,0.5152,13.1,1
+TR00275,2023-10-11,Istanbul,Dubai,Road Transport,Saudi Post Logistics,6591,8835.6,5450.97,0.6169,0.827,8.0,1
+TR00276,2023-01-12,Dammam,Dubai,Sea Freight,NAQEL Express,7037,6506.1,4388.39,0.6745,0.6236,4.2,0
+TR00277,2023-03-03,Istanbul,Riyadh,Air Freight,NAQEL Express,3748,2996.5,1328.01,0.4432,0.3543,10.2,1
+TR00278,2024-11-03,Shanghai,Madinah,Road Transport,DHL Global,9171,2960.2,1737.96,0.5871,0.1895,13.1,1
+TR00279,2023-11-24,Dubai,Jubail,Sea Freight,Saudi Post Logistics,7771,8788.3,5195.48,0.5912,0.6686,4.2,1
+TR00280,2023-11-11,Shanghai,Madinah,Sea Freight,Saudi Post Logistics,10963,216.8,552.24,2.5472,0.0504,7.9,1
+TR00281,2024-01-17,Munich,Jubail,Express Courier,DHL Global,1275,3862.3,478.88,0.124,0.3756,16.5,1
+TR00282,2023-04-26,Shanghai,Madinah,Sea Freight,NAQEL Express,6964,6091.3,2437.42,0.4001,0.35,7.2,1
+TR00283,2023-01-31,Riyadh,Dammam,Express Courier,Agility Logistics,9501,534.3,1386.86,2.5957,0.146,5.3,1
+TR00284,2024-06-10,Dammam,Jeddah,Road Transport,Maersk Line,9920,7796.6,2001.1,0.2567,0.2017,15.6,1
+TR00285,2024-09-08,Munich,Madinah,Road Transport,NAQEL Express,5308,1789.5,712.8,0.3983,0.1343,8.1,1
+TR00286,2023-07-10,Shanghai,Madinah,Express Courier,FedEx,8069,1482.8,1774.23,1.1965,0.2199,13.9,0
+TR00287,2024-12-19,Dammam,Riyadh,Road Transport,FedEx,609,1040.8,222.24,0.2135,0.3649,9.2,1
+TR00288,2024-05-21,Mumbai,Madinah,Express Courier,NAQEL Express,11369,7410.6,7284.53,0.983,0.6407,7.6,1
+TR00289,2024-01-07,Mumbai,Jubail,Rail,Maersk Line,6128,271.7,1067.2,3.9279,0.1742,10.1,1
+TR00290,2024-08-12,Munich,Dammam,Air Freight,Aramex,9371,6780.9,3474.37,0.5124,0.3708,12.4,1
+TR00291,2023-04-20,Shanghai,Riyadh,Road Transport,DB Schenker,8254,9887.8,6448.58,0.6522,0.7813,16.8,1
+TR00292,2023-03-25,Dubai,Dammam,Express Courier,Maersk Line,6035,5507.2,2537.31,0.4607,0.4204,15.2,1
+TR00293,2023-01-02,Mumbai,Dammam,Air Freight,Agility Logistics,437,1499.9,306.79,0.2045,0.702,4.8,1
+TR00294,2023-08-22,Shanghai,Madinah,Rail,Aramex,7433,2695.0,2410.76,0.8945,0.3243,11.4,0
+TR00295,2023-11-12,Mumbai,Riyadh,Rail,Maersk Line,1141,2472.3,614.58,0.2486,0.5386,5.6,1
+TR00296,2023-11-21,Riyadh,Dammam,Road Transport,Maersk Line,6136,5048.5,4583.32,0.9079,0.747,15.4,1
+TR00297,2024-03-17,Dammam,Riyadh,Express Courier,Maersk Line,2552,129.3,360.24,2.7861,0.1412,6.9,1
+TR00298,2024-01-06,Istanbul,Dubai,Sea Freight,DB Schenker,9840,6586.1,3818.27,0.5797,0.388,7.7,1
+TR00299,2024-12-03,Riyadh,Riyadh,Sea Freight,Saudi Post Logistics,5555,1719.3,512.57,0.2981,0.0923,14.7,1
+TR00300,2023-02-11,Dammam,Dubai,Rail,DHL Global,2167,3799.9,1629.47,0.4288,0.7519,10.4,1
+TR00301,2023-01-05,Shanghai,Riyadh,Air Freight,NAQEL Express,1847,5375.9,1535.5,0.2856,0.8313,3.2,1
+TR00302,2023-02-20,Shanghai,Madinah,Road Transport,Aramex,5656,9216.3,1119.01,0.1214,0.1978,14.1,1
+TR00303,2023-04-25,Dubai,Dammam,Road Transport,NAQEL Express,6346,9513.4,3303.49,0.3472,0.5206,10.6,1
+TR00304,2024-04-09,Dammam,Jubail,Express Courier,DHL Global,1414,4112.0,2687.35,0.6535,1.9005,9.2,1
+TR00305,2024-02-03,Istanbul,Jubail,Air Freight,Aramex,7184,4360.3,3449.17,0.791,0.4801,10.7,1
+TR00306,2024-03-26,Munich,Jubail,Express Courier,Aramex,4846,3767.7,2211.2,0.5869,0.4563,7.8,1
+TR00307,2023-07-06,Istanbul,Jeddah,Road Transport,NAQEL Express,5352,3034.2,1388.33,0.4576,0.2594,5.6,1
+TR00308,2023-12-21,Shanghai,Riyadh,Rail,FedEx,3315,1289.8,412.77,0.32,0.1245,13.8,1
+TR00309,2023-07-02,Dubai,Madinah,Sea Freight,FedEx,2626,4559.4,1884.76,0.4134,0.7177,7.2,1
+TR00310,2023-10-30,Jeddah,Jeddah,Road Transport,FedEx,2603,9940.5,6513.49,0.6552,2.5023,10.9,1
+TR00311,2023-01-31,Munich,Madinah,Sea Freight,DB Schenker,10680,1583.0,2612.15,1.6501,0.2446,9.5,1
+TR00312,2023-09-08,Istanbul,Dubai,Rail,Agility Logistics,3223,3137.4,1548.05,0.4934,0.4803,16.3,1
+TR00313,2023-05-30,Mumbai,Madinah,Sea Freight,FedEx,11460,6878.6,2425.76,0.3527,0.2117,6.4,0
+TR00314,2024-05-09,Istanbul,Madinah,Road Transport,Saudi Post Logistics,9383,8138.4,2289.36,0.2813,0.244,14.1,1
+TR00315,2024-05-16,Riyadh,Riyadh,Air Freight,DHL Global,946,3269.8,2637.89,0.8067,2.7885,12.1,1
+TR00316,2023-02-25,Istanbul,Dammam,Sea Freight,Agility Logistics,8232,6698.7,4362.26,0.6512,0.5299,7.5,1
+TR00317,2024-10-03,Riyadh,Jubail,Express Courier,FedEx,4569,110.6,149.67,1.3533,0.0328,5.0,1
+TR00318,2023-05-14,Jeddah,Riyadh,Express Courier,Saudi Post Logistics,9614,2250.4,2293.36,1.0191,0.2385,15.9,1
+TR00319,2024-06-04,Dammam,Madinah,Sea Freight,FedEx,6177,8970.6,6553.45,0.7305,1.0609,7.1,0
+TR00320,2024-12-01,Jeddah,Madinah,Rail,Aramex,7713,2788.7,2613.57,0.9372,0.3389,6.5,1
+TR00321,2023-12-19,Istanbul,Riyadh,Air Freight,Agility Logistics,3295,8568.5,4523.02,0.5279,1.3727,8.7,1
+TR00322,2023-12-24,Mumbai,Dammam,Express Courier,DHL Global,7561,5546.0,3790.62,0.6835,0.5013,16.7,1
+TR00323,2023-08-30,Shanghai,Riyadh,Rail,Aramex,6162,2305.2,1504.73,0.6528,0.2442,12.7,1
+TR00324,2024-04-06,Dubai,Madinah,Air Freight,Maersk Line,11843,2746.3,2942.55,1.0715,0.2485,17.5,1
+TR00325,2024-11-19,Dammam,Madinah,Express Courier,Agility Logistics,387,7354.8,3222.37,0.4381,8.3265,16.3,1
+TR00326,2023-12-10,Shanghai,Jeddah,Road Transport,FedEx,1410,4814.0,949.78,0.1973,0.6736,9.9,1
+TR00327,2023-06-26,Jeddah,Dubai,Rail,NAQEL Express,11948,1626.3,2189.41,1.3463,0.1832,5.3,1
+TR00328,2023-01-10,Riyadh,Dubai,Air Freight,DHL Global,2853,9334.0,2980.2,0.3193,1.0446,17.8,0
+TR00329,2024-03-21,Istanbul,Jeddah,Road Transport,FedEx,10170,3822.2,3345.68,0.8753,0.329,17.4,1
+TR00330,2024-08-25,Mumbai,Jeddah,Sea Freight,Aramex,1207,3481.9,915.18,0.2628,0.7582,6.2,0
+TR00331,2024-08-29,Dubai,Riyadh,Road Transport,DHL Global,624,3635.2,2238.0,0.6156,3.5865,8.0,1
+TR00332,2024-08-03,Munich,Jeddah,Air Freight,DHL Global,862,7357.1,3691.52,0.5018,4.2825,10.6,1
+TR00333,2024-06-13,Mumbai,Riyadh,Sea Freight,Maersk Line,3665,5321.3,3282.57,0.6169,0.8957,4.5,0
+TR00334,2023-05-12,Riyadh,Jeddah,Rail,Maersk Line,9269,4013.9,2202.91,0.5488,0.2377,11.5,1
+TR00335,2023-03-15,Dammam,Jubail,Express Courier,Maersk Line,7431,1409.8,1049.33,0.7443,0.1412,10.1,1
+TR00336,2023-10-21,Shanghai,Jubail,Express Courier,Agility Logistics,9995,121.8,968.34,7.9502,0.0969,6.2,1
+TR00337,2023-09-04,Munich,Madinah,Express Courier,Maersk Line,4483,2753.9,610.56,0.2217,0.1362,17.8,0
+TR00338,2024-09-11,Shanghai,Madinah,Air Freight,FedEx,5462,6230.2,1936.7,0.3109,0.3546,5.7,0
+TR00339,2024-11-14,Riyadh,Dammam,Express Courier,NAQEL Express,8727,8571.3,6017.02,0.702,0.6895,4.6,0
+TR00340,2023-10-12,Dubai,Riyadh,Sea Freight,DHL Global,1148,6300.3,839.65,0.1333,0.7314,8.2,1
+TR00341,2024-12-03,Jeddah,Riyadh,Rail,Saudi Post Logistics,4069,9455.6,6165.3,0.652,1.5152,17.4,1
+TR00342,2023-06-21,Dubai,Jubail,Road Transport,FedEx,7897,3543.5,2564.94,0.7238,0.3248,4.9,1
+TR00343,2024-01-29,Shanghai,Jeddah,Road Transport,DHL Global,4455,7833.6,4467.1,0.5702,1.0027,4.7,1
+TR00344,2024-02-20,Mumbai,Dubai,Express Courier,Saudi Post Logistics,4216,7351.0,5583.34,0.7595,1.3243,17.6,0
+TR00345,2023-09-05,Riyadh,Riyadh,Rail,DHL Global,2975,9548.3,2325.03,0.2435,0.7815,5.7,1
+TR00346,2024-06-11,Jeddah,Riyadh,Road Transport,Maersk Line,7409,1291.1,1533.81,1.188,0.207,17.4,1
+TR00347,2023-05-01,Munich,Riyadh,Sea Freight,DB Schenker,6257,9269.8,3205.83,0.3458,0.5124,3.5,0
+TR00348,2024-05-13,Riyadh,Dammam,Road Transport,NAQEL Express,647,8446.6,5749.48,0.6807,8.8864,16.0,1
+TR00349,2024-03-29,Istanbul,Jubail,Express Courier,DHL Global,11043,5164.9,4487.35,0.8688,0.4064,3.1,0
+TR00350,2023-05-25,Dubai,Jeddah,Road Transport,Aramex,476,508.2,109.82,0.2161,0.2307,16.9,1
+TR00351,2023-10-29,Dammam,Madinah,Rail,Agility Logistics,7813,3979.2,1389.8,0.3493,0.1779,6.4,1
+TR00352,2023-05-06,Dubai,Jeddah,Road Transport,Agility Logistics,3021,941.4,529.29,0.5622,0.1752,4.2,0
+TR00353,2024-12-05,Shanghai,Riyadh,Road Transport,Saudi Post Logistics,1705,4397.1,1018.06,0.2315,0.5971,12.1,1
+TR00354,2023-06-05,Jeddah,Jubail,Sea Freight,Agility Logistics,9689,2281.4,2426.43,1.0636,0.2504,9.3,1
+TR00355,2023-11-13,Istanbul,Dammam,Express Courier,NAQEL Express,10300,7168.1,1879.7,0.2622,0.1825,15.7,1
+TR00356,2023-12-05,Dammam,Riyadh,Rail,Saudi Post Logistics,7790,285.0,1134.29,3.98,0.1456,8.8,1
+TR00357,2023-07-26,Munich,Riyadh,Road Transport,FedEx,1041,2007.3,1232.8,0.6142,1.1842,10.3,0
+TR00358,2024-06-01,Jeddah,Dubai,Rail,NAQEL Express,4187,2335.3,2377.12,1.0179,0.5677,4.8,1
+TR00359,2024-04-15,Dammam,Dammam,Express Courier,Agility Logistics,7497,2305.2,1473.05,0.639,0.1965,16.0,1
+TR00360,2024-05-05,Shanghai,Dubai,Sea Freight,Agility Logistics,10753,9897.9,6913.93,0.6985,0.643,14.1,1
+TR00361,2024-09-13,Jeddah,Dammam,Rail,Saudi Post Logistics,4580,9907.1,5566.72,0.5619,1.2154,4.8,1
+TR00362,2023-06-05,Dammam,Jeddah,Road Transport,Aramex,11506,5517.1,2561.68,0.4643,0.2226,10.5,0
+TR00363,2023-06-07,Dubai,Dubai,Road Transport,FedEx,4593,7288.4,2046.8,0.2808,0.4456,12.7,1
+TR00364,2024-03-05,Munich,Dubai,Express Courier,NAQEL Express,3630,1724.6,1190.58,0.6904,0.328,11.8,1
+TR00365,2024-09-17,Dubai,Madinah,Road Transport,NAQEL Express,5895,5513.1,4859.99,0.8815,0.8244,6.7,1
+TR00366,2023-06-05,Riyadh,Riyadh,Express Courier,DB Schenker,11097,238.5,665.46,2.7902,0.06,9.8,1
+TR00367,2023-04-22,Munich,Riyadh,Road Transport,DB Schenker,8282,5893.7,4382.71,0.7436,0.5292,3.8,1
+TR00368,2024-01-30,Dammam,Jeddah,Rail,Maersk Line,7287,8179.0,6455.24,0.7892,0.8859,6.4,1
+TR00369,2024-12-20,Riyadh,Jubail,Express Courier,Saudi Post Logistics,9389,4426.4,3611.26,0.8158,0.3846,15.2,1
+TR00370,2024-05-10,Dammam,Dammam,Express Courier,Saudi Post Logistics,6290,7202.8,2528.71,0.3511,0.402,7.2,1
+TR00371,2024-06-06,Munich,Dubai,Express Courier,FedEx,116,7377.1,5258.37,0.7128,45.3308,7.2,1
+TR00372,2023-03-02,Mumbai,Dubai,Air Freight,Aramex,11516,9240.9,7632.52,0.8259,0.6628,14.8,1
+TR00373,2024-05-11,Jeddah,Jeddah,Sea Freight,Saudi Post Logistics,2686,137.5,163.48,1.1889,0.0609,13.8,1
+TR00374,2023-03-07,Jeddah,Dubai,Rail,Maersk Line,6576,4380.1,1674.97,0.3824,0.2547,10.7,1
+TR00375,2024-11-01,Riyadh,Jeddah,Sea Freight,DHL Global,4394,7351.0,1768.42,0.2406,0.4025,7.7,1
+TR00376,2024-02-15,Munich,Jeddah,Express Courier,FedEx,3850,6052.8,2906.06,0.4801,0.7548,15.6,1
+TR00377,2024-06-13,Dubai,Dammam,Rail,FedEx,3070,4805.0,1925.25,0.4007,0.6271,15.0,1
+TR00378,2023-06-03,Munich,Dammam,Air Freight,Saudi Post Logistics,7722,4328.8,3863.13,0.8924,0.5003,8.2,1
+TR00379,2024-02-20,Shanghai,Jeddah,Rail,NAQEL Express,11677,7858.3,5956.1,0.7579,0.5101,5.1,1
+TR00380,2023-04-13,Munich,Riyadh,Express Courier,DHL Global,6857,5305.0,4515.49,0.8512,0.6585,8.0,1
+TR00381,2023-06-25,Istanbul,Jeddah,Road Transport,DB Schenker,10747,9822.6,8868.85,0.9029,0.8252,3.6,1
+TR00382,2024-04-20,Mumbai,Dubai,Road Transport,Maersk Line,4564,6090.9,1408.49,0.2312,0.3086,4.0,1
+TR00383,2023-01-11,Jeddah,Riyadh,Express Courier,NAQEL Express,10607,1760.1,1196.93,0.68,0.1128,16.4,1
+TR00384,2024-04-05,Jeddah,Jeddah,Rail,FedEx,9747,1354.7,1463.07,1.08,0.1501,9.4,1
+TR00385,2024-12-03,Jeddah,Dubai,Express Courier,FedEx,7788,7200.4,2418.77,0.3359,0.3106,14.1,1
+TR00386,2023-07-09,Mumbai,Dammam,Express Courier,NAQEL Express,798,5006.4,2507.78,0.5009,3.1426,15.0,1
+TR00387,2023-11-14,Riyadh,Riyadh,Air Freight,Agility Logistics,8003,2575.5,1946.89,0.7559,0.2433,16.9,1
+TR00388,2023-04-03,Mumbai,Riyadh,Road Transport,NAQEL Express,8759,5649.9,3142.45,0.5562,0.3588,13.3,1
+TR00389,2024-07-07,Dammam,Dammam,Sea Freight,Aramex,9140,7969.5,6795.16,0.8526,0.7435,5.0,1
+TR00390,2023-10-24,Riyadh,Jubail,Road Transport,NAQEL Express,808,5373.2,1559.06,0.2902,1.9295,7.4,1
+TR00391,2024-02-21,Riyadh,Jubail,Air Freight,Maersk Line,2516,4844.7,3011.28,0.6216,1.1969,10.5,1
+TR00392,2023-07-15,Dammam,Dubai,Sea Freight,Saudi Post Logistics,810,400.4,276.05,0.6894,0.3408,14.9,1
+TR00393,2023-08-11,Istanbul,Dammam,Express Courier,Agility Logistics,81,8159.0,2415.56,0.2961,29.8217,15.3,1
+TR00394,2024-11-30,Dammam,Jeddah,Air Freight,FedEx,7214,184.3,1184.08,6.4247,0.1641,6.8,1
+TR00395,2024-03-30,Dammam,Madinah,Rail,FedEx,2629,9307.0,2124.99,0.2283,0.8083,13.5,1
+TR00396,2024-02-10,Jeddah,Dubai,Rail,Maersk Line,8381,5284.9,3593.84,0.68,0.4288,13.7,1
+TR00397,2023-05-22,Istanbul,Dammam,Express Courier,Maersk Line,11168,5937.5,1702.19,0.2867,0.1524,16.3,1
+TR00398,2023-11-02,Istanbul,Jeddah,Air Freight,Maersk Line,3280,3094.8,2183.34,0.7055,0.6657,15.5,1
+TR00399,2023-10-09,Dubai,Riyadh,Express Courier,DB Schenker,4095,6434.0,2808.26,0.4365,0.6858,13.6,1
+TR00400,2024-11-19,Riyadh,Dammam,Road Transport,NAQEL Express,1644,7957.2,3175.76,0.3991,1.9317,6.4,1
+TR00401,2024-11-27,Riyadh,Jubail,Express Courier,Saudi Post Logistics,7927,6964.1,2427.23,0.3485,0.3062,14.2,1
+TR00402,2023-06-08,Munich,Madinah,Road Transport,Aramex,8130,6970.3,3140.38,0.4505,0.3863,3.5,1
+TR00403,2023-12-12,Dubai,Dammam,Sea Freight,NAQEL Express,1364,4705.3,2476.25,0.5263,1.8154,4.9,1
+TR00404,2023-09-11,Jeddah,Jubail,Air Freight,FedEx,6201,7254.4,5525.94,0.7617,0.8911,12.7,1
+TR00405,2023-02-08,Riyadh,Riyadh,Sea Freight,Saudi Post Logistics,10010,8804.4,1496.02,0.1699,0.1495,12.6,0
+TR00406,2023-09-16,Mumbai,Riyadh,Air Freight,FedEx,4214,4186.0,1862.96,0.445,0.4421,9.7,1
+TR00407,2023-10-01,Jeddah,Dammam,Sea Freight,Aramex,3051,3940.0,2815.82,0.7147,0.9229,5.6,1
+TR00408,2023-10-06,Shanghai,Dubai,Rail,DHL Global,12000,5618.6,3040.79,0.5412,0.2534,15.0,1
+TR00409,2024-07-06,Shanghai,Jeddah,Rail,NAQEL Express,2105,9604.4,2397.08,0.2496,1.1388,16.8,1
+TR00410,2024-12-11,Mumbai,Riyadh,Rail,Saudi Post Logistics,10761,2484.8,2901.85,1.1678,0.2697,10.2,0
+TR00411,2024-12-02,Riyadh,Dammam,Express Courier,Agility Logistics,8872,1071.1,1030.61,0.9622,0.1162,16.7,1
+TR00412,2024-09-02,Dammam,Dammam,Sea Freight,Agility Logistics,9660,5602.5,2517.64,0.4494,0.2606,16.8,1
+TR00413,2024-12-20,Shanghai,Dammam,Rail,Agility Logistics,3580,916.6,709.8,0.7744,0.1983,10.3,1
+TR00414,2023-10-10,Jeddah,Riyadh,Road Transport,DHL Global,6917,7089.1,2928.75,0.4131,0.4234,12.1,1
+TR00415,2024-07-02,Jeddah,Dubai,Sea Freight,Aramex,4764,8334.1,4134.02,0.496,0.8678,12.9,1
+TR00416,2024-07-05,Riyadh,Jubail,Sea Freight,NAQEL Express,8119,2424.3,2602.45,1.0735,0.3205,12.3,0
+TR00417,2023-07-01,Dammam,Madinah,Air Freight,DHL Global,10457,9574.4,1962.78,0.205,0.1877,17.8,0
+TR00418,2023-07-20,Shanghai,Dubai,Express Courier,DB Schenker,2050,4631.6,1045.02,0.2256,0.5098,6.5,0
+TR00419,2023-06-16,Mumbai,Jubail,Sea Freight,NAQEL Express,7473,6039.7,1434.03,0.2374,0.1919,7.6,1
+TR00420,2024-04-10,Munich,Jeddah,Air Freight,Maersk Line,3605,4011.8,3420.73,0.8527,0.9489,4.8,1
+TR00421,2024-12-26,Munich,Riyadh,Air Freight,NAQEL Express,8723,7214.8,3663.69,0.5078,0.42,12.5,0
+TR00422,2024-02-21,Munich,Jubail,Air Freight,DHL Global,4677,1291.3,440.29,0.341,0.0941,12.1,1
+TR00423,2024-09-11,Dubai,Jeddah,Air Freight,FedEx,9636,3067.7,2546.04,0.83,0.2642,3.5,1
+TR00424,2023-02-20,Mumbai,Riyadh,Rail,NAQEL Express,1935,3673.0,1540.43,0.4194,0.7961,8.8,1
+TR00425,2024-03-16,Riyadh,Riyadh,Sea Freight,NAQEL Express,3412,2705.8,1811.47,0.6695,0.5309,17.7,1
+TR00426,2024-01-05,Munich,Jeddah,Air Freight,Agility Logistics,10433,4024.6,1861.79,0.4626,0.1785,13.3,1
+TR00427,2024-03-29,Dammam,Jeddah,Air Freight,NAQEL Express,447,5843.0,1700.73,0.2911,3.8048,5.4,1
+TR00428,2024-06-12,Shanghai,Dammam,Express Courier,FedEx,1579,9564.4,1193.5,0.1248,0.7559,12.0,1
+TR00429,2024-11-07,Riyadh,Madinah,Sea Freight,FedEx,3395,183.0,536.34,2.9308,0.158,16.1,1
+TR00430,2024-09-01,Dammam,Madinah,Rail,Saudi Post Logistics,944,9269.6,6156.24,0.6641,6.5214,13.6,0
+TR00431,2023-05-31,Dammam,Dammam,Express Courier,Saudi Post Logistics,11127,7179.2,2971.77,0.4139,0.2671,7.9,1
+TR00432,2024-08-19,Mumbai,Madinah,Express Courier,FedEx,9925,9666.8,2057.76,0.2129,0.2073,3.4,1
+TR00433,2024-03-23,Shanghai,Riyadh,Rail,Aramex,9000,6998.4,4877.74,0.697,0.542,16.6,0
+TR00434,2024-08-01,Mumbai,Dubai,Road Transport,FedEx,9847,8247.3,2552.38,0.3095,0.2592,8.2,1
+TR00435,2024-06-21,Mumbai,Jeddah,Sea Freight,DB Schenker,6778,8707.0,5430.67,0.6237,0.8012,3.9,1
+TR00436,2023-12-22,Munich,Dubai,Express Courier,DB Schenker,3076,1792.9,929.94,0.5187,0.3023,7.1,1
+TR00437,2023-11-10,Dammam,Jubail,Air Freight,FedEx,6208,3243.5,1881.36,0.58,0.3031,13.8,1
+TR00438,2024-02-22,Riyadh,Jeddah,Road Transport,Agility Logistics,6309,1312.3,1190.69,0.9073,0.1887,12.3,1
+TR00439,2023-09-25,Jeddah,Jubail,Rail,Saudi Post Logistics,7708,9695.1,8151.28,0.8408,1.0575,11.9,1
+TR00440,2023-06-26,Riyadh,Riyadh,Air Freight,Aramex,6076,8897.3,3871.17,0.4351,0.6371,10.3,1
+TR00441,2024-02-26,Munich,Riyadh,Express Courier,DHL Global,2516,9887.7,4159.45,0.4207,1.6532,9.9,0
+TR00442,2024-04-30,Dubai,Madinah,Air Freight,FedEx,3410,4764.4,1474.76,0.3095,0.4325,17.6,1
+TR00443,2023-06-13,Munich,Riyadh,Road Transport,DHL Global,3595,8757.7,2265.97,0.2587,0.6303,11.8,1
+TR00444,2024-05-15,Dubai,Jubail,Air Freight,NAQEL Express,6194,8300.1,3075.96,0.3706,0.4966,3.7,1
+TR00445,2023-02-19,Riyadh,Jeddah,Sea Freight,DHL Global,2536,6857.0,1380.16,0.2013,0.5442,12.7,0
+TR00446,2024-10-23,Munich,Madinah,Rail,Aramex,4243,5498.3,1525.18,0.2774,0.3595,4.2,0
+TR00447,2023-09-24,Shanghai,Dubai,Express Courier,NAQEL Express,11861,2706.8,2622.88,0.969,0.2211,14.7,1
+TR00448,2023-11-03,Munich,Dammam,Road Transport,Maersk Line,6265,944.0,1329.59,1.4085,0.2122,10.3,1
+TR00449,2024-02-09,Istanbul,Madinah,Road Transport,NAQEL Express,1897,5186.9,1641.48,0.3165,0.8653,12.2,1
+TR00450,2024-01-27,Shanghai,Jubail,Air Freight,Saudi Post Logistics,6064,2538.7,1773.26,0.6985,0.2924,13.3,1
+TR00451,2024-12-02,Mumbai,Dammam,Rail,Maersk Line,5633,9876.5,2962.6,0.3,0.5259,10.8,1
+TR00452,2023-05-22,Mumbai,Riyadh,Rail,DHL Global,3778,7067.9,1305.51,0.1847,0.3456,11.1,0
+TR00453,2023-04-16,Dammam,Madinah,Air Freight,Saudi Post Logistics,617,2463.3,656.52,0.2665,1.0641,7.9,1
+TR00454,2023-02-16,Istanbul,Jubail,Sea Freight,Saudi Post Logistics,1481,3259.7,2331.76,0.7153,1.5744,13.6,1
+TR00455,2024-01-29,Dammam,Riyadh,Rail,Maersk Line,293,5106.1,2364.0,0.463,8.0683,5.9,1
+TR00456,2024-08-22,Jeddah,Riyadh,Sea Freight,DHL Global,8816,8830.0,5231.12,0.5924,0.5934,9.9,1
+TR00457,2023-11-08,Riyadh,Dammam,Express Courier,Aramex,8111,2418.6,2226.15,0.9204,0.2745,17.5,1
+TR00458,2023-12-30,Dammam,Dubai,Sea Freight,Saudi Post Logistics,8638,7960.2,6503.57,0.817,0.7529,15.0,0
+TR00459,2023-01-15,Dubai,Dubai,Sea Freight,Agility Logistics,3929,8296.0,5336.36,0.6432,1.3582,6.6,1
+TR00460,2024-08-24,Mumbai,Jubail,Road Transport,DHL Global,2217,8713.4,2200.72,0.2526,0.9927,17.6,0
+TR00461,2024-05-21,Istanbul,Dubai,Express Courier,DB Schenker,8607,1514.7,1276.52,0.8428,0.1483,6.9,1
+TR00462,2023-03-05,Shanghai,Jeddah,Sea Freight,NAQEL Express,1555,8339.6,6582.49,0.7893,4.2331,12.4,1
+TR00463,2023-08-16,Jeddah,Madinah,Sea Freight,NAQEL Express,5752,7039.0,3071.03,0.4363,0.5339,7.2,1
+TR00464,2024-11-09,Dammam,Jeddah,Express Courier,FedEx,3131,426.3,726.92,1.7052,0.2322,5.4,1
+TR00465,2024-07-16,Dubai,Riyadh,Sea Freight,DB Schenker,9455,7657.2,1927.23,0.2517,0.2038,11.5,1
+TR00466,2024-02-22,Dubai,Jubail,Air Freight,DHL Global,10909,2191.8,2139.68,0.9762,0.1961,13.8,1
+TR00467,2024-01-16,Dammam,Dubai,Express Courier,Aramex,3017,2783.9,1525.61,0.548,0.5057,8.5,1
+TR00468,2024-03-27,Jeddah,Jubail,Express Courier,DHL Global,7479,8884.5,3208.39,0.3611,0.429,4.3,1
+TR00469,2024-06-10,Jeddah,Dammam,Sea Freight,DHL Global,10676,2355.1,568.56,0.2414,0.0533,14.1,1
+TR00470,2024-08-24,Jeddah,Riyadh,Road Transport,DB Schenker,3659,3062.5,2302.99,0.752,0.6294,5.1,1
+TR00471,2023-10-06,Jeddah,Dammam,Rail,DHL Global,3216,8949.4,6485.43,0.7247,2.0166,8.7,1
+TR00472,2024-03-27,Dubai,Madinah,Rail,Saudi Post Logistics,7184,3204.8,2725.81,0.8505,0.3794,16.0,1
+TR00473,2023-04-06,Dammam,Madinah,Road Transport,Maersk Line,4902,7508.8,3411.59,0.4543,0.696,17.4,1
+TR00474,2023-04-25,Munich,Dammam,Sea Freight,Aramex,8386,5609.1,2240.73,0.3995,0.2672,11.3,1
+TR00475,2023-12-24,Shanghai,Madinah,Express Courier,Saudi Post Logistics,6822,1887.7,1322.66,0.7007,0.1939,17.6,1
+TR00476,2024-07-20,Dubai,Jeddah,Sea Freight,Agility Logistics,7469,8890.3,3999.79,0.4499,0.5355,8.7,0
+TR00477,2024-12-01,Dubai,Jubail,Air Freight,Maersk Line,1047,2960.4,1141.72,0.3857,1.0905,8.5,0
+TR00478,2024-09-18,Jeddah,Dammam,Sea Freight,NAQEL Express,11173,5462.2,3498.84,0.6406,0.3132,6.3,1
+TR00479,2023-12-14,Riyadh,Jeddah,Sea Freight,DB Schenker,2730,1087.5,680.47,0.6257,0.2493,10.8,1
+TR00480,2024-06-18,Dammam,Jeddah,Rail,Aramex,2539,2634.8,845.45,0.3209,0.333,7.4,1
+TR00481,2023-05-26,Riyadh,Jubail,Sea Freight,Aramex,2426,9528.9,2124.59,0.223,0.8758,8.1,1
+TR00482,2023-01-04,Munich,Jeddah,Air Freight,Aramex,4715,8546.2,2978.57,0.3485,0.6317,16.2,1
+TR00483,2023-12-14,Jeddah,Jeddah,Rail,DB Schenker,10414,5485.5,2736.75,0.4989,0.2628,6.8,0
+TR00484,2023-01-13,Riyadh,Dammam,Rail,Aramex,5441,7679.1,4942.74,0.6437,0.9084,6.8,1
+TR00485,2023-02-23,Dammam,Jeddah,Air Freight,Aramex,1488,3559.7,978.63,0.2749,0.6577,16.1,1
+TR00486,2023-08-10,Dubai,Jeddah,Sea Freight,DHL Global,8329,4212.5,3496.63,0.8301,0.4198,15.2,1
+TR00487,2024-10-16,Shanghai,Dammam,Rail,Maersk Line,9654,5193.5,2890.79,0.5566,0.2994,12.8,0
+TR00488,2023-08-17,Shanghai,Jubail,Sea Freight,DB Schenker,940,1902.0,956.45,0.5029,1.0175,16.3,1
+TR00489,2024-12-01,Riyadh,Dubai,Air Freight,Aramex,10155,9573.1,8364.89,0.8738,0.8237,16.3,1
+TR00490,2024-10-28,Dubai,Riyadh,Road Transport,NAQEL Express,10568,9059.7,2018.35,0.2228,0.191,6.3,1
+TR00491,2023-12-13,Munich,Jubail,Air Freight,Agility Logistics,113,7713.6,5171.01,0.6704,45.7612,15.9,1
+TR00492,2023-07-18,Mumbai,Madinah,Express Courier,Maersk Line,6322,4439.1,1701.11,0.3832,0.2691,14.2,0
+TR00493,2023-12-05,Riyadh,Madinah,Sea Freight,Maersk Line,5302,2517.1,633.62,0.2517,0.1195,17.9,0
+TR00494,2023-05-12,Istanbul,Dammam,Air Freight,Aramex,1753,7953.1,3985.81,0.5012,2.2737,9.3,1
+TR00495,2024-05-01,Jeddah,Jeddah,Air Freight,DB Schenker,1439,5243.0,946.21,0.1805,0.6575,14.8,1
+TR00496,2024-07-08,Istanbul,Riyadh,Rail,Aramex,5377,8493.1,6388.5,0.7522,1.1881,4.1,1
+TR00497,2024-06-15,Jeddah,Madinah,Road Transport,NAQEL Express,8662,8008.0,6104.22,0.7623,0.7047,10.0,1
+TR00498,2024-08-18,Riyadh,Dubai,Express Courier,FedEx,3302,6563.8,1095.82,0.1669,0.3319,16.9,1
+TR00499,2023-07-04,Mumbai,Jubail,Air Freight,DHL Global,6374,6077.5,4827.25,0.7943,0.7573,11.3,1
+TR00500,2024-12-13,Jeddah,Jubail,Express Courier,DHL Global,5923,5482.4,885.32,0.1615,0.1495,4.4,0
+TR00501,2023-08-30,Istanbul,Jubail,Rail,Saudi Post Logistics,8839,502.1,1178.03,2.3462,0.1333,6.4,1
+TR00502,2024-09-01,Munich,Dubai,Express Courier,FedEx,1204,7064.9,5178.32,0.733,4.3009,13.8,1
+TR00503,2024-04-28,Shanghai,Dubai,Express Courier,Saudi Post Logistics,8449,4103.3,3495.72,0.8519,0.4137,13.5,1
+TR00504,2024-01-10,Munich,Dammam,Road Transport,FedEx,3694,5420.9,4136.52,0.7631,1.1198,17.4,1
+TR00505,2023-04-16,Shanghai,Jeddah,Express Courier,FedEx,9505,6175.6,2423.1,0.3924,0.2549,11.6,1
+TR00506,2024-05-28,Istanbul,Jeddah,Sea Freight,DHL Global,3952,4943.8,1859.47,0.3761,0.4705,11.1,1
+TR00507,2023-02-04,Istanbul,Jubail,Express Courier,NAQEL Express,10857,1760.3,1373.95,0.7805,0.1265,14.6,1
+TR00508,2024-02-11,Mumbai,Dubai,Road Transport,Maersk Line,1043,837.0,731.07,0.8734,0.7009,6.4,1
+TR00509,2023-01-15,Jeddah,Jeddah,Sea Freight,Aramex,4262,6358.3,4213.14,0.6626,0.9885,6.0,1
+TR00510,2024-04-01,Dubai,Madinah,Express Courier,Saudi Post Logistics,9657,5801.2,4882.36,0.8416,0.5056,14.2,1
+TR00511,2023-07-25,Dubai,Madinah,Air Freight,DHL Global,3869,1600.1,1022.73,0.6392,0.2643,13.1,0
+TR00512,2023-02-13,Istanbul,Dubai,Express Courier,DB Schenker,694,9786.5,1686.6,0.1723,2.4303,8.8,1
+TR00513,2024-01-10,Jeddah,Jeddah,Sea Freight,FedEx,10017,6070.1,2474.61,0.4077,0.247,3.6,0
+TR00514,2023-07-14,Dubai,Dubai,Sea Freight,FedEx,5126,1580.1,1258.22,0.7963,0.2455,13.5,1
+TR00515,2024-11-08,Dammam,Dammam,Air Freight,Aramex,6108,9280.0,4019.78,0.4332,0.6581,13.7,1
+TR00516,2024-07-16,Shanghai,Jubail,Road Transport,Saudi Post Logistics,5959,4271.3,1024.9,0.24,0.172,16.5,1
+TR00517,2023-12-26,Shanghai,Dammam,Air Freight,DHL Global,10490,3482.5,1709.61,0.4909,0.163,11.9,1
+TR00518,2023-10-29,Dubai,Jeddah,Rail,FedEx,3281,1626.5,1157.81,0.7118,0.3529,8.7,1
+TR00519,2023-09-04,Dammam,Riyadh,Rail,DHL Global,1532,1621.6,900.61,0.5554,0.5879,3.1,1
+TR00520,2024-04-30,Istanbul,Dammam,Sea Freight,DB Schenker,3329,1972.0,645.38,0.3273,0.1939,18.0,1
+TR00521,2024-04-07,Shanghai,Madinah,Sea Freight,NAQEL Express,9062,1710.4,1488.7,0.8704,0.1643,17.0,1
+TR00522,2023-04-25,Istanbul,Dammam,Air Freight,Maersk Line,10776,7257.9,3357.56,0.4626,0.3116,6.4,1
+TR00523,2024-11-29,Jeddah,Dubai,Rail,NAQEL Express,8091,5142.9,4547.11,0.8842,0.562,8.5,1
+TR00524,2024-07-26,Jeddah,Jubail,Road Transport,NAQEL Express,9211,4502.8,1956.78,0.4346,0.2124,16.2,1
+TR00525,2024-11-12,Munich,Jubail,Road Transport,FedEx,1342,3890.5,2659.84,0.6837,1.982,12.2,1
+TR00526,2024-01-24,Mumbai,Dammam,Sea Freight,Saudi Post Logistics,4731,690.6,723.75,1.048,0.153,12.3,0
+TR00527,2023-06-03,Shanghai,Jubail,Road Transport,FedEx,6707,9442.3,5480.41,0.5804,0.8171,17.4,1
+TR00528,2024-09-28,Shanghai,Jubail,Sea Freight,DB Schenker,6054,3237.7,903.83,0.2792,0.1493,4.7,1
+TR00529,2023-12-18,Mumbai,Madinah,Road Transport,FedEx,9427,6692.1,1941.65,0.2901,0.206,8.2,1
+TR00530,2024-01-05,Istanbul,Dammam,Rail,Aramex,11606,6105.2,4184.99,0.6855,0.3606,6.2,1
+TR00531,2023-12-02,Mumbai,Dammam,Road Transport,FedEx,6793,7759.7,2700.81,0.3481,0.3976,6.4,1
+TR00532,2024-05-10,Riyadh,Dubai,Express Courier,NAQEL Express,11725,4353.7,2124.26,0.4879,0.1812,14.4,1
+TR00533,2023-10-04,Jeddah,Jubail,Express Courier,NAQEL Express,2028,7452.1,5329.7,0.7152,2.6281,14.2,0
+TR00534,2024-07-28,Shanghai,Madinah,Sea Freight,Agility Logistics,4140,7199.8,5965.27,0.8285,1.4409,13.3,1
+TR00535,2024-06-21,Istanbul,Jeddah,Rail,DB Schenker,7722,8073.0,7090.09,0.8782,0.9182,3.8,0
+TR00536,2024-12-28,Istanbul,Jubail,Rail,Agility Logistics,1755,4626.0,2574.85,0.5566,1.4672,3.4,1
+TR00537,2023-04-25,Dubai,Madinah,Sea Freight,Aramex,865,317.0,229.57,0.7242,0.2654,7.2,1
+TR00538,2024-03-19,Dammam,Dammam,Road Transport,DB Schenker,51,9863.1,1206.52,0.1223,23.6573,10.0,0
+TR00539,2023-11-07,Munich,Jeddah,Road Transport,Aramex,5022,2322.3,2012.23,0.8665,0.4007,9.3,1
+TR00540,2023-01-21,Mumbai,Dubai,Express Courier,Maersk Line,9249,1511.4,640.52,0.4238,0.0693,9.0,1
+TR00541,2023-06-26,Shanghai,Jubail,Air Freight,Saudi Post Logistics,5564,3481.0,1062.36,0.3052,0.1909,8.9,0
+TR00542,2024-11-15,Jeddah,Jubail,Road Transport,NAQEL Express,11564,136.8,484.02,3.5382,0.0419,4.4,1
+TR00543,2024-06-01,Riyadh,Dammam,Rail,DB Schenker,9563,7691.8,1484.03,0.1929,0.1552,8.6,1
+TR00544,2024-06-19,Dammam,Dammam,Express Courier,DHL Global,3080,7698.8,4362.46,0.5666,1.4164,12.8,0
+TR00545,2023-06-17,Mumbai,Madinah,Sea Freight,DHL Global,4579,1149.4,786.25,0.6841,0.1717,14.5,1
+TR00546,2024-03-29,Dubai,Riyadh,Air Freight,Aramex,8862,3464.0,1238.09,0.3574,0.1397,10.0,1
+TR00547,2024-06-16,Istanbul,Jubail,Rail,NAQEL Express,1962,6479.2,1697.26,0.262,0.8651,17.6,0
+TR00548,2024-12-23,Istanbul,Madinah,Air Freight,NAQEL Express,8739,7349.2,4615.27,0.628,0.5281,14.8,1
+TR00549,2023-01-26,Munich,Dubai,Express Courier,DB Schenker,8099,1656.7,1431.43,0.864,0.1767,5.0,1
+TR00550,2024-05-21,Munich,Dammam,Sea Freight,Agility Logistics,3819,8291.7,3629.95,0.4378,0.9505,9.0,1
+TR00551,2024-10-15,Shanghai,Dubai,Air Freight,DHL Global,1831,1740.0,1105.98,0.6356,0.604,13.8,0
+TR00552,2024-07-09,Istanbul,Dubai,Sea Freight,DB Schenker,4072,4049.5,2364.54,0.5839,0.5807,10.4,1
+TR00553,2023-04-18,Mumbai,Jeddah,Road Transport,Agility Logistics,4151,1343.8,1041.83,0.7753,0.251,16.1,1
+TR00554,2024-12-05,Jeddah,Madinah,Rail,FedEx,5065,4040.3,3137.65,0.7766,0.6195,13.1,1
+TR00555,2024-04-02,Mumbai,Dubai,Express Courier,Agility Logistics,445,4509.6,1820.17,0.4036,4.0903,6.6,1
+TR00556,2023-03-29,Dammam,Dammam,Sea Freight,Saudi Post Logistics,7913,7160.2,6361.2,0.8884,0.8039,17.2,0
+TR00557,2024-07-18,Dammam,Dubai,Road Transport,FedEx,7790,7909.6,1324.26,0.1674,0.17,13.6,0
+TR00558,2024-10-02,Shanghai,Riyadh,Air Freight,Saudi Post Logistics,1391,5913.1,1600.69,0.2707,1.1507,3.0,1
+TR00559,2024-02-26,Mumbai,Jeddah,Road Transport,FedEx,4952,5457.7,1550.33,0.2841,0.3131,16.3,1
+TR00560,2024-02-15,Shanghai,Dammam,Air Freight,FedEx,4957,7074.9,4306.45,0.6087,0.8688,16.7,1
+TR00561,2023-06-05,Shanghai,Riyadh,Sea Freight,FedEx,8520,9622.2,4385.23,0.4557,0.5147,15.5,1
+TR00562,2024-03-19,Shanghai,Jubail,Express Courier,DB Schenker,8584,8822.6,4203.35,0.4764,0.4897,13.6,0
+TR00563,2023-05-21,Dammam,Madinah,Air Freight,DB Schenker,8473,4860.1,4384.38,0.9021,0.5175,5.1,1
+TR00564,2023-06-19,Dammam,Dammam,Express Courier,Saudi Post Logistics,10614,3356.9,2470.01,0.7358,0.2327,13.6,0
+TR00565,2024-01-21,Shanghai,Riyadh,Sea Freight,Maersk Line,6446,4791.8,3186.04,0.6649,0.4943,15.5,1
+TR00566,2023-03-14,Dammam,Riyadh,Sea Freight,DHL Global,1817,8527.5,5486.14,0.6433,3.0193,5.2,1
+TR00567,2024-12-08,Riyadh,Dubai,Road Transport,Saudi Post Logistics,6459,2879.8,2578.13,0.8952,0.3992,12.8,1
+TR00568,2023-08-26,Munich,Riyadh,Express Courier,NAQEL Express,671,9578.1,2188.55,0.2285,3.2616,3.2,0
+TR00569,2023-12-03,Istanbul,Riyadh,Air Freight,DHL Global,9825,6741.6,3857.53,0.5722,0.3926,8.2,1
+TR00570,2023-09-14,Munich,Dubai,Sea Freight,NAQEL Express,8796,5452.7,4593.99,0.8425,0.5223,11.9,0
+TR00571,2023-10-06,Munich,Jeddah,Road Transport,DHL Global,2202,7007.9,1430.59,0.2041,0.6497,11.3,1
+TR00572,2024-01-06,Mumbai,Riyadh,Express Courier,Maersk Line,7892,480.9,909.63,1.8915,0.1153,8.5,0
+TR00573,2023-11-07,Munich,Riyadh,Rail,FedEx,4595,2657.9,2119.7,0.7975,0.4613,17.3,1
+TR00574,2024-12-11,Dammam,Dubai,Road Transport,Maersk Line,3365,4310.9,1291.74,0.2996,0.3839,5.8,1
+TR00575,2024-06-23,Dammam,Jubail,Sea Freight,DHL Global,8092,4317.3,3579.52,0.8291,0.4424,15.4,1
+TR00576,2024-12-06,Istanbul,Jeddah,Road Transport,Agility Logistics,9043,9785.8,8052.48,0.8229,0.8905,8.6,1
+TR00577,2024-08-23,Jeddah,Riyadh,Sea Freight,Agility Logistics,2282,7959.9,3499.29,0.4396,1.5334,16.3,1
+TR00578,2023-02-12,Dubai,Jeddah,Air Freight,NAQEL Express,9120,9516.5,2177.89,0.2289,0.2388,5.9,1
+TR00579,2023-02-18,Jeddah,Jubail,Sea Freight,DB Schenker,7394,4070.7,1305.17,0.3206,0.1765,12.8,1
+TR00580,2023-02-19,Istanbul,Riyadh,Air Freight,Aramex,6761,1006.1,584.05,0.5805,0.0864,6.4,1
+TR00581,2023-11-12,Mumbai,Jubail,Express Courier,Agility Logistics,8340,1734.5,2435.61,1.4042,0.292,6.8,1
+TR00582,2023-05-23,Shanghai,Jubail,Air Freight,Saudi Post Logistics,10241,6057.9,3660.21,0.6042,0.3574,9.4,1
+TR00583,2023-05-15,Riyadh,Dammam,Road Transport,Maersk Line,6248,4888.5,1818.16,0.3719,0.291,3.1,1
+TR00584,2023-12-12,Dammam,Jeddah,Air Freight,DHL Global,9787,9933.2,7786.9,0.7839,0.7956,17.8,1
+TR00585,2024-10-29,Munich,Dubai,Rail,Maersk Line,2309,5604.0,4268.7,0.7617,1.8487,11.2,0
+TR00586,2024-08-22,Dammam,Madinah,Air Freight,FedEx,1760,7912.1,4583.2,0.5793,2.6041,11.8,1
+TR00587,2024-08-03,Jeddah,Jeddah,Air Freight,Maersk Line,7173,6336.6,5265.29,0.8309,0.734,6.0,1
+TR00588,2023-11-03,Istanbul,Dubai,Road Transport,Agility Logistics,8929,3161.2,1225.21,0.3876,0.1372,12.0,1
+TR00589,2023-04-17,Shanghai,Jeddah,Express Courier,Saudi Post Logistics,1539,6629.2,1409.81,0.2127,0.9161,16.9,1
+TR00590,2023-01-05,Mumbai,Jeddah,Express Courier,DB Schenker,7540,4557.7,3909.55,0.8578,0.5185,6.4,0
+TR00591,2023-07-26,Istanbul,Riyadh,Road Transport,FedEx,4796,6462.7,2372.68,0.3671,0.4947,14.1,1
+TR00592,2023-03-20,Jeddah,Dammam,Air Freight,Saudi Post Logistics,11785,4853.4,1114.59,0.2297,0.0946,6.1,1
+TR00593,2023-03-08,Istanbul,Riyadh,Road Transport,Agility Logistics,2787,5871.5,1009.63,0.172,0.3623,8.1,1
+TR00594,2023-10-12,Dammam,Jubail,Road Transport,Saudi Post Logistics,10564,9714.6,5072.32,0.5221,0.4802,8.5,1
+TR00595,2023-12-07,Munich,Riyadh,Sea Freight,FedEx,6781,2560.2,2341.64,0.9146,0.3453,16.7,1
+TR00596,2023-10-07,Mumbai,Jubail,Sea Freight,Saudi Post Logistics,9599,4302.3,2847.12,0.6618,0.2966,4.2,1
+TR00597,2024-07-16,Dammam,Dammam,Sea Freight,DB Schenker,6714,888.3,870.35,0.9798,0.1296,6.2,1
+TR00598,2023-04-26,Shanghai,Jubail,Sea Freight,DHL Global,8969,3267.1,2451.11,0.7502,0.2733,9.3,0
+TR00599,2024-02-22,Istanbul,Dubai,Sea Freight,FedEx,1628,1890.4,1535.42,0.8122,0.9431,11.3,1
+TR00600,2023-09-18,Istanbul,Dubai,Rail,FedEx,5336,1111.9,585.4,0.5265,0.1097,14.3,1
+TR00601,2024-03-13,Jeddah,Riyadh,Express Courier,Aramex,6485,2124.6,1128.54,0.5312,0.174,11.7,0
+TR00602,2024-10-31,Mumbai,Madinah,Air Freight,Aramex,9248,2371.0,1381.03,0.5825,0.1493,15.0,1
+TR00603,2023-11-06,Jeddah,Madinah,Rail,Saudi Post Logistics,5252,5859.1,4960.92,0.8467,0.9446,4.3,1
+TR00604,2024-07-19,Jeddah,Dammam,Express Courier,Maersk Line,11406,5536.3,5387.0,0.973,0.4723,14.6,1
+TR00605,2023-01-28,Dubai,Dubai,Sea Freight,Aramex,11277,4649.7,3156.51,0.6789,0.2799,17.5,1
+TR00606,2024-01-26,Mumbai,Jubail,Rail,Saudi Post Logistics,6649,5916.7,2095.41,0.3542,0.3151,3.5,0
+TR00607,2023-12-01,Dammam,Jeddah,Rail,Saudi Post Logistics,172,9009.7,3570.39,0.3963,20.7581,7.8,1
+TR00608,2024-01-26,Munich,Riyadh,Sea Freight,Agility Logistics,2414,6738.5,5245.27,0.7784,2.1729,12.4,1
+TR00609,2024-12-27,Mumbai,Madinah,Road Transport,DHL Global,6692,9929.7,7346.82,0.7399,1.0979,17.1,1
+TR00610,2023-10-15,Shanghai,Riyadh,Rail,Agility Logistics,347,3530.4,1465.96,0.4152,4.2247,12.6,1
+TR00611,2024-08-01,Mumbai,Riyadh,Air Freight,Maersk Line,8551,2148.9,1470.55,0.6843,0.172,15.2,1
+TR00612,2023-03-02,Riyadh,Madinah,Sea Freight,Saudi Post Logistics,11955,2635.8,2537.98,0.9629,0.2123,15.1,1
+TR00613,2023-06-13,Dubai,Dubai,Sea Freight,NAQEL Express,4559,8853.2,3058.92,0.3455,0.671,13.6,1
+TR00614,2023-10-01,Riyadh,Riyadh,Sea Freight,NAQEL Express,10688,2970.7,1483.96,0.4995,0.1388,14.0,1
+TR00615,2024-05-19,Dubai,Dubai,Road Transport,NAQEL Express,10322,1714.4,1826.41,1.0653,0.1769,8.9,1
+TR00616,2024-03-02,Shanghai,Madinah,Air Freight,Aramex,5894,1177.7,962.67,0.8174,0.1633,17.8,1
+TR00617,2023-07-08,Munich,Dubai,Sea Freight,DHL Global,11519,5171.3,2011.39,0.389,0.1746,6.4,1
+TR00618,2024-05-27,Mumbai,Madinah,Rail,Maersk Line,6623,4402.6,1333.62,0.3029,0.2014,10.7,0
+TR00619,2023-08-17,Riyadh,Jeddah,Road Transport,Agility Logistics,9079,8540.7,4687.56,0.5488,0.5163,3.4,0
+TR00620,2023-02-24,Riyadh,Riyadh,Express Courier,Saudi Post Logistics,3512,3814.1,1992.43,0.5224,0.5673,6.0,1
+TR00621,2023-07-06,Istanbul,Madinah,Rail,Agility Logistics,1225,9992.4,6551.52,0.6557,5.3482,17.5,1
+TR00622,2023-10-06,Jeddah,Dammam,Air Freight,Saudi Post Logistics,3830,6532.4,5103.36,0.7812,1.3325,16.6,0
+TR00623,2024-09-08,Riyadh,Dubai,Express Courier,NAQEL Express,7913,3230.5,3187.48,0.9867,0.4028,11.0,1
+TR00624,2024-01-18,Shanghai,Dammam,Rail,FedEx,4479,1824.8,1846.46,1.0119,0.4122,8.3,1
+TR00625,2024-03-12,Dammam,Riyadh,Rail,Agility Logistics,5639,1625.0,1254.24,0.7718,0.2224,12.7,1
+TR00626,2023-06-08,Riyadh,Riyadh,Sea Freight,NAQEL Express,11646,4068.0,2967.04,0.7294,0.2548,16.3,0
+TR00627,2024-10-06,Munich,Dubai,Sea Freight,Saudi Post Logistics,6758,6749.4,1073.07,0.159,0.1588,14.2,0
+TR00628,2024-01-09,Dammam,Dammam,Rail,NAQEL Express,7720,6516.2,5048.52,0.7748,0.654,3.7,1
+TR00629,2023-01-20,Dammam,Jubail,Air Freight,DHL Global,3967,4704.8,3427.2,0.7284,0.8639,17.8,0
+TR00630,2023-11-28,Mumbai,Madinah,Road Transport,NAQEL Express,10184,5827.0,5680.83,0.9749,0.5578,6.7,0
+TR00631,2023-02-18,Dammam,Dubai,Sea Freight,DHL Global,9912,6158.1,3805.74,0.618,0.384,6.2,1
+TR00632,2024-10-01,Munich,Jubail,Express Courier,DB Schenker,4259,8442.9,4047.47,0.4794,0.9503,15.2,1
+TR00633,2023-02-14,Mumbai,Riyadh,Air Freight,DHL Global,9224,7615.0,2782.56,0.3654,0.3017,11.7,1
+TR00634,2023-06-28,Jeddah,Madinah,Sea Freight,Agility Logistics,11846,7606.6,7286.43,0.9579,0.6151,4.2,1
+TR00635,2024-02-11,Istanbul,Madinah,Road Transport,NAQEL Express,9907,2549.7,2483.95,0.9742,0.2507,4.9,1
+TR00636,2023-05-24,Munich,Madinah,Sea Freight,NAQEL Express,8640,5856.1,1876.73,0.3205,0.2172,14.3,1
+TR00637,2024-08-12,Riyadh,Dubai,Air Freight,Maersk Line,10434,349.4,753.51,2.1566,0.0722,15.7,1
+TR00638,2024-09-22,Jeddah,Dubai,Rail,NAQEL Express,1572,3944.4,3061.36,0.7761,1.9474,3.6,1
+TR00639,2023-05-05,Jeddah,Riyadh,Rail,FedEx,5808,3542.9,1821.91,0.5142,0.3137,6.8,1
+TR00640,2023-05-27,Munich,Dubai,Sea Freight,Maersk Line,6117,8925.9,5765.1,0.6459,0.9425,13.5,1
+TR00641,2024-09-21,Munich,Dubai,Rail,DB Schenker,1840,3535.5,1748.46,0.4945,0.9503,9.7,1
+TR00642,2024-06-14,Riyadh,Madinah,Rail,DB Schenker,7678,4131.6,3020.06,0.731,0.3933,11.6,1
+TR00643,2023-09-12,Dubai,Dammam,Rail,DHL Global,11400,4732.7,4449.25,0.9401,0.3903,10.1,1
+TR00644,2024-11-26,Dammam,Riyadh,Air Freight,NAQEL Express,8805,4397.7,1123.7,0.2555,0.1276,12.2,1
+TR00645,2023-10-04,Munich,Riyadh,Rail,FedEx,8680,5350.2,3291.52,0.6152,0.3792,17.5,1
+TR00646,2023-09-11,Dammam,Dammam,Rail,NAQEL Express,1531,6332.1,4162.93,0.6574,2.7191,4.0,0
+TR00647,2023-03-29,Dammam,Jubail,Rail,FedEx,1352,3366.8,2386.67,0.7089,1.7653,15.4,1
+TR00648,2024-09-14,Riyadh,Dammam,Air Freight,Agility Logistics,10532,1035.0,2028.65,1.96,0.1926,17.6,1
+TR00649,2024-12-12,Jeddah,Dubai,Rail,FedEx,9946,9846.0,4436.69,0.4506,0.4461,13.2,1
+TR00650,2023-12-13,Jeddah,Jeddah,Sea Freight,DHL Global,8201,6250.4,2112.6,0.338,0.2576,4.8,0
+TR00651,2023-12-01,Munich,Jeddah,Road Transport,FedEx,4786,2425.1,2360.86,0.9735,0.4933,12.4,1
+TR00652,2023-10-31,Jeddah,Jubail,Rail,DHL Global,2117,2432.5,1471.17,0.6048,0.6949,17.3,1
+TR00653,2024-09-09,Munich,Madinah,Rail,NAQEL Express,8436,6208.9,2102.13,0.3386,0.2492,7.1,0
+TR00654,2023-05-09,Shanghai,Dubai,Air Freight,Agility Logistics,7697,9161.8,5889.71,0.6429,0.7652,8.5,1
+TR00655,2023-09-05,Munich,Riyadh,Sea Freight,NAQEL Express,3176,2109.2,1031.55,0.4891,0.3248,4.1,1
+TR00656,2024-11-12,Riyadh,Madinah,Road Transport,Aramex,4825,5025.3,3924.46,0.7809,0.8134,8.3,1
+TR00657,2024-04-11,Munich,Jeddah,Sea Freight,NAQEL Express,1790,3841.2,1307.75,0.3405,0.7306,15.2,1
+TR00658,2024-05-13,Shanghai,Madinah,Air Freight,NAQEL Express,4801,1266.0,557.9,0.4407,0.1162,13.7,1
+TR00659,2023-09-24,Istanbul,Dubai,Express Courier,Aramex,11840,5685.4,5470.03,0.9621,0.462,6.4,1
+TR00660,2023-03-15,Dammam,Dammam,Rail,DHL Global,1028,8398.0,1252.07,0.1491,1.218,6.4,1
+TR00661,2023-08-09,Dubai,Riyadh,Sea Freight,Aramex,9703,9696.7,5480.62,0.5652,0.5648,6.8,1
+TR00662,2023-06-27,Munich,Dubai,Rail,Agility Logistics,6310,6882.8,2815.07,0.409,0.4461,10.6,1
+TR00663,2024-03-22,Istanbul,Jeddah,Rail,FedEx,1502,2304.9,1112.21,0.4825,0.7405,10.3,1
+TR00664,2023-07-28,Munich,Madinah,Rail,DB Schenker,3722,2087.3,1424.32,0.6824,0.3827,14.1,1
+TR00665,2023-09-26,Mumbai,Dubai,Road Transport,Aramex,7321,2523.3,1423.29,0.5641,0.1944,15.4,1
+TR00666,2024-02-29,Istanbul,Riyadh,Road Transport,NAQEL Express,11454,1057.5,1663.83,1.5734,0.1453,17.5,0
+TR00667,2023-06-16,Istanbul,Madinah,Air Freight,Aramex,5150,6523.1,1263.26,0.1937,0.2453,7.0,1
+TR00668,2023-12-17,Mumbai,Jubail,Air Freight,Aramex,11466,3441.7,2358.45,0.6853,0.2057,13.3,1
+TR00669,2024-10-25,Dammam,Riyadh,Air Freight,DB Schenker,1024,1518.4,322.58,0.2124,0.315,3.3,1
+TR00670,2023-09-14,Riyadh,Madinah,Express Courier,NAQEL Express,3897,953.6,718.45,0.7534,0.1844,5.3,0
+TR00671,2024-02-29,Riyadh,Madinah,Rail,FedEx,10785,7876.3,3012.84,0.3825,0.2794,17.9,1
+TR00672,2023-10-27,Mumbai,Dubai,Road Transport,NAQEL Express,85,893.1,513.17,0.5746,6.0373,5.5,1
+TR00673,2023-12-28,Dubai,Madinah,Express Courier,NAQEL Express,4341,7260.0,5113.6,0.7044,1.178,6.2,0
+TR00674,2023-10-01,Jeddah,Dammam,Express Courier,Aramex,8803,4094.5,1673.49,0.4087,0.1901,16.3,1
+TR00675,2023-03-25,Dammam,Madinah,Sea Freight,Maersk Line,3081,7307.8,1513.74,0.2071,0.4913,9.7,1
+TR00676,2023-09-07,Istanbul,Jubail,Express Courier,Maersk Line,2240,140.8,181.83,1.2914,0.0812,12.0,1
+TR00677,2023-07-09,Dammam,Riyadh,Air Freight,Saudi Post Logistics,2236,5647.1,3659.03,0.6479,1.6364,3.4,1
+TR00678,2024-08-23,Jeddah,Jeddah,Road Transport,Aramex,9107,6546.8,3561.29,0.544,0.391,11.1,1
+TR00679,2024-11-22,Munich,Madinah,Rail,NAQEL Express,10156,3934.8,1011.35,0.257,0.0996,17.1,0
+TR00680,2023-12-29,Istanbul,Riyadh,Sea Freight,Maersk Line,135,290.7,233.41,0.8029,1.729,6.0,0
+TR00681,2024-12-28,Shanghai,Riyadh,Road Transport,Maersk Line,7535,4248.0,3497.8,0.8234,0.4642,15.0,0
+TR00682,2023-07-26,Mumbai,Jubail,Sea Freight,DHL Global,9552,1110.6,1137.35,1.0241,0.1191,12.0,0
+TR00683,2023-02-25,Istanbul,Dubai,Road Transport,DHL Global,5792,1421.7,1039.96,0.7315,0.1796,12.8,1
+TR00684,2023-10-10,Riyadh,Dubai,Sea Freight,Aramex,9793,9273.1,6664.57,0.7187,0.6805,17.9,1
+TR00685,2023-05-18,Shanghai,Madinah,Road Transport,DB Schenker,8106,4187.6,1113.14,0.2658,0.1373,15.6,0
+TR00686,2024-04-09,Dammam,Jeddah,Sea Freight,FedEx,11287,1481.0,1979.32,1.3365,0.1754,15.7,1
+TR00687,2024-11-28,Dammam,Madinah,Air Freight,NAQEL Express,62,4353.0,3437.43,0.7897,55.4424,6.4,1
+TR00688,2024-02-10,Jeddah,Jeddah,Sea Freight,DHL Global,2292,2240.0,1828.27,0.8162,0.7977,12.0,1
+TR00689,2023-04-03,Shanghai,Dubai,Express Courier,Maersk Line,2593,1725.8,1168.88,0.6773,0.4508,13.8,1
+TR00690,2024-06-09,Munich,Dammam,Rail,DB Schenker,4438,1316.7,560.83,0.4259,0.1264,7.2,1
+TR00691,2023-07-11,Dubai,Jeddah,Road Transport,DHL Global,1377,3587.8,933.08,0.2601,0.6776,14.2,1
+TR00692,2024-10-06,Mumbai,Jeddah,Express Courier,Saudi Post Logistics,9282,8281.1,2920.13,0.3526,0.3146,15.0,1
+TR00693,2023-08-07,Dammam,Riyadh,Sea Freight,DHL Global,10159,7636.0,1963.38,0.2571,0.1933,15.7,1
+TR00694,2023-06-01,Dubai,Madinah,Rail,FedEx,10502,9903.5,6270.78,0.6332,0.5971,3.2,1
+TR00695,2023-04-19,Riyadh,Jubail,Rail,Aramex,3892,4968.5,2032.98,0.4092,0.5223,9.9,1
+TR00696,2024-10-29,Riyadh,Riyadh,Rail,NAQEL Express,5076,9353.4,8205.85,0.8773,1.6166,5.3,1
+TR00697,2023-05-11,Riyadh,Jubail,Rail,FedEx,2838,7428.3,2181.52,0.2937,0.7687,8.6,0
+TR00698,2024-06-17,Shanghai,Madinah,Air Freight,Aramex,8571,6986.7,5929.57,0.8487,0.6918,7.1,1
+TR00699,2024-03-07,Dubai,Riyadh,Road Transport,Agility Logistics,8337,6474.2,5630.37,0.8697,0.6753,10.9,1
+TR00700,2023-03-07,Munich,Jubail,Rail,FedEx,7129,7453.9,4931.62,0.6616,0.6918,16.0,1
+TR00701,2023-11-21,Shanghai,Jubail,Express Courier,DHL Global,7803,6462.5,4111.84,0.6363,0.527,8.1,0
+TR00702,2023-11-24,Munich,Dubai,Express Courier,Maersk Line,6300,3839.9,2062.28,0.5371,0.3273,3.8,0
+TR00703,2024-10-29,Mumbai,Riyadh,Rail,Saudi Post Logistics,6420,9427.1,4953.94,0.5255,0.7716,13.9,1
+TR00704,2024-07-01,Shanghai,Riyadh,Sea Freight,DHL Global,7702,5753.9,4432.53,0.7704,0.5755,17.1,1
+TR00705,2024-01-14,Istanbul,Dubai,Rail,Maersk Line,3622,3230.0,2736.72,0.8473,0.7556,13.2,1
+TR00706,2023-12-14,Mumbai,Dammam,Rail,DHL Global,7955,5956.9,2481.89,0.4166,0.312,13.0,1
+TR00707,2023-10-13,Istanbul,Jubail,Road Transport,NAQEL Express,946,6556.1,2935.01,0.4477,3.1025,17.2,1
+TR00708,2024-11-22,Jeddah,Madinah,Sea Freight,DB Schenker,3060,2852.5,2247.45,0.7879,0.7345,4.9,0
+TR00709,2023-11-08,Jeddah,Jubail,Rail,DB Schenker,9492,4673.6,3291.84,0.7043,0.3468,8.4,1
+TR00710,2023-08-24,Istanbul,Riyadh,Road Transport,FedEx,1887,5180.5,3758.47,0.7255,1.9918,15.6,1
+TR00711,2023-05-05,Shanghai,Madinah,Road Transport,Maersk Line,6986,1136.6,1223.94,1.0768,0.1752,9.4,1
+TR00712,2023-10-15,Riyadh,Jubail,Sea Freight,Aramex,5134,4753.3,3647.49,0.7674,0.7105,12.8,1
+TR00713,2024-05-22,Dubai,Riyadh,Express Courier,DHL Global,7361,9416.2,2452.43,0.2604,0.3332,12.2,0
+TR00714,2023-07-26,Riyadh,Dubai,Express Courier,Saudi Post Logistics,5732,8554.2,4063.95,0.4751,0.709,10.0,1
+TR00715,2024-01-17,Riyadh,Jeddah,Rail,DHL Global,8821,846.7,1622.57,1.9163,0.1839,8.7,1
+TR00716,2024-12-12,Munich,Jubail,Rail,Saudi Post Logistics,11641,5939.6,5106.28,0.8597,0.4386,6.0,1
+TR00717,2024-10-28,Munich,Dammam,Rail,DB Schenker,4816,3340.0,1940.25,0.5809,0.4029,8.3,1
+TR00718,2023-12-15,Mumbai,Dammam,Road Transport,Saudi Post Logistics,6846,1446.7,507.8,0.351,0.0742,11.6,1
+TR00719,2024-11-22,Riyadh,Riyadh,Express Courier,Agility Logistics,4265,1979.5,1124.85,0.5682,0.2637,9.1,1
+TR00720,2023-05-29,Munich,Jeddah,Rail,Aramex,953,8425.5,4355.74,0.517,4.5706,8.4,1
+TR00721,2023-10-23,Istanbul,Madinah,Rail,Aramex,7109,969.7,580.18,0.5983,0.0816,6.2,1
+TR00722,2023-04-13,Munich,Dammam,Rail,Aramex,3588,599.0,446.01,0.7446,0.1243,5.1,1
+TR00723,2024-08-24,Shanghai,Dammam,Rail,Saudi Post Logistics,5981,1017.6,1137.64,1.118,0.1902,6.7,1
+TR00724,2023-08-27,Dammam,Jeddah,Express Courier,Aramex,5515,4146.2,2174.66,0.5245,0.3943,15.3,1
+TR00725,2023-07-22,Munich,Dubai,Rail,Aramex,8690,4776.6,4869.94,1.0195,0.5604,5.3,0
+TR00726,2024-09-18,Shanghai,Jeddah,Rail,FedEx,6110,5724.4,4240.42,0.7408,0.694,4.0,0
+TR00727,2024-06-02,Riyadh,Madinah,Road Transport,DB Schenker,8094,4317.4,1485.52,0.3441,0.1835,6.4,1
+TR00728,2023-09-26,Istanbul,Jeddah,Road Transport,Aramex,3023,1209.1,1298.99,1.0743,0.4297,11.7,0
+TR00729,2023-08-18,Munich,Dammam,Air Freight,Agility Logistics,1397,2737.0,1083.82,0.396,0.7758,12.0,1
+TR00730,2023-08-12,Munich,Jubail,Express Courier,Aramex,4818,638.2,663.35,1.0394,0.1377,15.6,1
+TR00731,2023-04-30,Dammam,Jeddah,Express Courier,Saudi Post Logistics,4749,9808.1,2851.77,0.2908,0.6005,11.3,0
+TR00732,2024-09-14,Dubai,Riyadh,Express Courier,Aramex,6606,6969.0,4295.17,0.6163,0.6502,13.8,1
+TR00733,2024-08-09,Dammam,Riyadh,Rail,DB Schenker,4729,6230.6,3744.49,0.601,0.7918,17.5,1
+TR00734,2023-08-09,Dammam,Dubai,Sea Freight,DHL Global,2341,1185.8,716.54,0.6043,0.3061,5.8,0
+TR00735,2023-02-01,Riyadh,Riyadh,Sea Freight,Aramex,9869,1929.9,715.97,0.371,0.0725,17.4,1
+TR00736,2023-01-15,Shanghai,Dammam,Rail,NAQEL Express,5688,313.8,511.74,1.6308,0.09,15.9,0
+TR00737,2024-02-18,Jeddah,Dubai,Air Freight,Aramex,4185,4976.2,1005.64,0.2021,0.2403,10.4,1
+TR00738,2024-09-19,Istanbul,Dubai,Road Transport,Saudi Post Logistics,767,4017.3,726.45,0.1808,0.9471,7.6,1
+TR00739,2024-12-11,Jeddah,Riyadh,Rail,NAQEL Express,6282,9194.6,5268.57,0.573,0.8387,12.3,1
+TR00740,2024-09-17,Dubai,Dubai,Express Courier,NAQEL Express,3185,5717.4,1570.15,0.2746,0.493,9.1,1
+TR00741,2023-07-14,Riyadh,Dubai,Road Transport,Saudi Post Logistics,64,9839.8,6094.15,0.6193,95.2211,5.1,0
+TR00742,2023-09-29,Dubai,Madinah,Air Freight,NAQEL Express,3954,5881.8,4027.26,0.6847,1.0185,16.9,1
+TR00743,2024-11-06,Dubai,Jubail,Road Transport,DHL Global,10341,9065.0,8451.05,0.9323,0.8172,4.6,1
+TR00744,2023-12-21,Shanghai,Madinah,Rail,DB Schenker,4633,4736.1,2200.61,0.4646,0.475,12.7,1
+TR00745,2023-06-10,Dubai,Dammam,Express Courier,Saudi Post Logistics,5308,1278.3,841.32,0.6582,0.1585,6.8,1
+TR00746,2024-04-10,Riyadh,Jeddah,Rail,Aramex,11315,6642.3,1629.21,0.2453,0.144,9.8,1
+TR00747,2024-06-14,Dammam,Dubai,Road Transport,Aramex,9180,254.4,1387.24,5.453,0.1511,3.7,0
+TR00748,2024-06-08,Shanghai,Jubail,Sea Freight,NAQEL Express,5758,5765.1,4732.01,0.8208,0.8218,7.7,1
+TR00749,2024-06-10,Munich,Dubai,Express Courier,Saudi Post Logistics,9227,5482.7,4242.72,0.7738,0.4598,11.2,1
+TR00750,2024-08-24,Istanbul,Jubail,Rail,Aramex,7242,1210.4,1427.83,1.1796,0.1972,3.4,0
+TR00751,2024-05-30,Jeddah,Dammam,Rail,FedEx,5745,7564.5,4174.59,0.5519,0.7266,3.2,1
+TR00752,2024-08-28,Jeddah,Jubail,Air Freight,FedEx,10638,5952.3,3703.11,0.6221,0.3481,11.2,1
+TR00753,2023-04-05,Jeddah,Madinah,Rail,Aramex,4437,7122.8,4586.95,0.644,1.0338,14.5,1
+TR00754,2024-06-01,Riyadh,Dubai,Air Freight,Agility Logistics,5542,551.6,937.97,1.7005,0.1692,14.6,1
+TR00755,2024-10-28,Mumbai,Dubai,Road Transport,NAQEL Express,5614,1067.0,1425.52,1.336,0.2539,5.0,1
+TR00756,2024-10-14,Jeddah,Dammam,Express Courier,Maersk Line,278,4085.9,1138.68,0.2787,4.096,14.3,1
+TR00757,2024-01-11,Jeddah,Jubail,Sea Freight,Aramex,2513,2151.3,1162.66,0.5404,0.4627,12.4,1
+TR00758,2023-03-01,Mumbai,Dammam,Express Courier,Saudi Post Logistics,2779,7082.4,3934.63,0.5556,1.4158,14.2,1
+TR00759,2024-11-17,Istanbul,Jubail,Express Courier,DB Schenker,2670,1500.5,859.57,0.5729,0.3219,17.9,0
+TR00760,2024-05-18,Munich,Dammam,Sea Freight,FedEx,149,6470.5,3719.15,0.5748,24.9607,17.3,1
+TR00761,2024-08-01,Munich,Jeddah,Express Courier,DHL Global,11719,9090.2,2396.29,0.2636,0.2045,5.2,0
+TR00762,2023-02-02,Jeddah,Dammam,Rail,FedEx,5319,3366.2,1388.25,0.4124,0.261,16.2,0
+TR00763,2024-03-11,Mumbai,Dammam,Sea Freight,NAQEL Express,9692,1243.2,2009.65,1.6165,0.2074,17.3,1
+TR00764,2024-04-26,Jeddah,Riyadh,Air Freight,Aramex,7318,6545.0,5448.03,0.8324,0.7445,7.8,1
+TR00765,2024-02-26,Dammam,Dubai,Road Transport,NAQEL Express,9198,2200.6,2457.04,1.1165,0.2671,14.0,1
+TR00766,2023-10-16,Mumbai,Jubail,Road Transport,Saudi Post Logistics,2603,617.2,232.85,0.3773,0.0895,3.0,1
+TR00767,2023-07-28,Munich,Riyadh,Express Courier,DB Schenker,712,1819.2,825.13,0.4536,1.1589,5.7,0
+TR00768,2024-04-27,Munich,Riyadh,Express Courier,DHL Global,994,1072.1,452.64,0.4222,0.4554,10.9,0
+TR00769,2024-11-04,Dammam,Riyadh,Express Courier,Aramex,7340,1482.0,1353.55,0.9133,0.1844,9.9,1
+TR00770,2024-01-08,Dammam,Madinah,Air Freight,Aramex,8066,4366.9,3901.36,0.8934,0.4837,3.6,0
+TR00771,2024-08-04,Dubai,Riyadh,Express Courier,DB Schenker,8910,8051.7,5707.23,0.7088,0.6405,4.3,1
+TR00772,2024-06-12,Istanbul,Dubai,Air Freight,DHL Global,7160,2975.7,1065.19,0.358,0.1488,17.5,1
+TR00773,2024-06-19,Jeddah,Madinah,Air Freight,Aramex,5368,1835.8,1644.18,0.8956,0.3063,14.8,0
+TR00774,2023-04-15,Munich,Jeddah,Rail,Aramex,1378,3568.8,2665.42,0.7469,1.9343,8.0,1
+TR00775,2024-11-01,Jeddah,Madinah,Air Freight,Maersk Line,1291,1898.0,707.42,0.3727,0.548,7.6,1
+TR00776,2024-10-29,Mumbai,Dammam,Road Transport,FedEx,9650,3835.3,1320.33,0.3443,0.1368,13.5,1
+TR00777,2023-11-18,Dammam,Jeddah,Road Transport,FedEx,11272,6491.5,4274.58,0.6585,0.3792,5.1,1
+TR00778,2024-01-13,Jeddah,Madinah,Sea Freight,FedEx,3108,9410.9,4456.7,0.4736,1.4339,6.2,0
+TR00779,2023-09-26,Mumbai,Madinah,Sea Freight,DB Schenker,8630,1872.0,1585.71,0.8471,0.1837,7.3,0
+TR00780,2024-11-03,Dubai,Jubail,Express Courier,FedEx,9269,139.3,952.61,6.8385,0.1028,10.0,1
+TR00781,2024-07-27,Riyadh,Madinah,Sea Freight,Aramex,6024,4611.4,2697.85,0.585,0.4479,4.8,1
+TR00782,2024-04-15,Dubai,Jeddah,Express Courier,Maersk Line,6927,3906.4,1767.89,0.4526,0.2552,10.1,1
+TR00783,2024-01-17,Dubai,Dammam,Air Freight,Saudi Post Logistics,4047,3689.0,988.2,0.2679,0.2442,9.4,1
+TR00784,2023-09-06,Shanghai,Dubai,Road Transport,Saudi Post Logistics,7925,7878.0,3405.04,0.4322,0.4297,7.4,1
+TR00785,2024-09-25,Dammam,Jubail,Sea Freight,DHL Global,782,6633.6,2996.63,0.4517,3.832,3.9,1
+TR00786,2024-08-11,Riyadh,Dammam,Sea Freight,Agility Logistics,6021,4338.9,3675.28,0.8471,0.6104,15.7,0
+TR00787,2023-11-04,Riyadh,Dubai,Sea Freight,DHL Global,10983,1486.3,2045.55,1.3763,0.1862,17.3,1
+TR00788,2023-08-12,Dammam,Riyadh,Road Transport,Agility Logistics,3252,8276.9,2601.6,0.3143,0.8,13.4,1
+TR00789,2023-10-20,Mumbai,Dubai,Sea Freight,NAQEL Express,1440,5965.3,1828.82,0.3066,1.27,15.2,1
+TR00790,2023-08-30,Jeddah,Dammam,Air Freight,FedEx,8278,5985.6,4875.62,0.8146,0.589,3.5,1
+TR00791,2023-05-09,Dammam,Jubail,Road Transport,FedEx,4570,8045.2,3137.09,0.3899,0.6865,10.8,1
+TR00792,2024-03-01,Munich,Dammam,Road Transport,FedEx,6650,9638.4,7702.03,0.7991,1.1582,15.1,1
+TR00793,2023-08-18,Dammam,Dubai,Road Transport,Agility Logistics,7463,4829.3,1932.41,0.4001,0.2589,12.4,1
+TR00794,2023-08-19,Dammam,Jeddah,Rail,Saudi Post Logistics,7858,902.8,378.06,0.4188,0.0481,10.3,0
+TR00795,2024-12-05,Munich,Jubail,Rail,DB Schenker,2530,3863.6,2255.09,0.5837,0.8913,16.1,1
+TR00796,2024-01-24,Dammam,Riyadh,Sea Freight,NAQEL Express,1652,6761.9,4875.94,0.7211,2.9515,5.8,1
+TR00797,2024-07-26,Jeddah,Madinah,Air Freight,NAQEL Express,2432,8463.4,5721.62,0.676,2.3526,3.9,1
+TR00798,2023-08-28,Shanghai,Jubail,Air Freight,DHL Global,7472,5197.9,1573.58,0.3027,0.2106,15.6,1
+TR00799,2024-08-28,Istanbul,Jeddah,Rail,Agility Logistics,10012,1309.3,1317.48,1.0062,0.1316,3.5,1
+TR00800,2024-04-13,Shanghai,Dammam,Air Freight,FedEx,2210,1601.7,762.14,0.4758,0.3449,7.6,1
+TR00801,2023-05-30,Dubai,Riyadh,Rail,DB Schenker,4113,377.0,491.2,1.3029,0.1194,3.9,1
+TR00802,2024-06-09,Jeddah,Riyadh,Air Freight,DHL Global,10370,595.9,424.3,0.712,0.0409,16.4,1
+TR00803,2023-06-19,Riyadh,Dammam,Road Transport,Agility Logistics,10300,5743.1,4287.82,0.7466,0.4163,15.5,1
+TR00804,2024-09-24,Dubai,Dubai,Rail,Agility Logistics,5554,2674.2,2308.81,0.8634,0.4157,5.5,1
+TR00805,2024-06-26,Riyadh,Madinah,Road Transport,Saudi Post Logistics,4890,8228.2,2611.64,0.3174,0.5341,11.1,1
+TR00806,2023-08-16,Dammam,Madinah,Road Transport,Maersk Line,6493,6632.6,4836.48,0.7292,0.7449,16.3,0
+TR00807,2024-09-21,Shanghai,Dammam,Air Freight,NAQEL Express,6841,967.9,1497.0,1.5466,0.2188,13.6,1
+TR00808,2023-06-27,Shanghai,Jeddah,Rail,DB Schenker,3553,2813.9,2388.71,0.8489,0.6723,4.9,1
+TR00809,2023-11-29,Riyadh,Dammam,Express Courier,DHL Global,4828,5487.4,3417.12,0.6227,0.7078,16.2,1
+TR00810,2024-07-16,Mumbai,Madinah,Air Freight,DB Schenker,10165,6401.2,2210.15,0.3453,0.2174,16.6,1
+TR00811,2024-04-05,Munich,Jeddah,Sea Freight,Agility Logistics,3861,5554.0,3591.68,0.6467,0.9302,4.0,1
+TR00812,2023-02-11,Riyadh,Jubail,Air Freight,DB Schenker,2687,7141.5,5206.73,0.7291,1.9377,10.0,1
+TR00813,2023-07-03,Mumbai,Dubai,Rail,Agility Logistics,2594,1408.4,994.74,0.7063,0.3835,5.4,1
+TR00814,2024-09-12,Jeddah,Madinah,Air Freight,DB Schenker,5344,9437.1,3217.24,0.3409,0.602,15.4,1
+TR00815,2023-06-25,Shanghai,Jeddah,Sea Freight,Maersk Line,10031,1725.2,1988.34,1.1525,0.1982,16.6,1
+TR00816,2024-11-05,Mumbai,Jeddah,Express Courier,Maersk Line,8236,9513.3,6049.29,0.6359,0.7345,9.9,1
+TR00817,2023-04-05,Mumbai,Madinah,Road Transport,Aramex,2470,9627.9,2589.26,0.2689,1.0483,9.0,0
+TR00818,2024-01-02,Jeddah,Jubail,Road Transport,DB Schenker,3187,2697.2,1404.19,0.5206,0.4406,17.0,1
+TR00819,2024-11-08,Munich,Jeddah,Express Courier,FedEx,10405,5779.1,4779.13,0.827,0.4593,15.8,1
+TR00820,2024-06-07,Jeddah,Riyadh,Sea Freight,DHL Global,9230,7904.0,3242.21,0.4102,0.3513,16.9,1
+TR00821,2024-10-25,Riyadh,Dammam,Air Freight,Maersk Line,6859,2017.6,1712.69,0.8489,0.2497,7.1,1
+TR00822,2023-02-02,Shanghai,Dubai,Express Courier,Maersk Line,2971,8945.6,6022.03,0.6732,2.0269,5.6,1
+TR00823,2023-11-03,Munich,Jeddah,Air Freight,NAQEL Express,7177,6587.9,1336.48,0.2029,0.1862,10.1,1
+TR00824,2023-08-26,Munich,Dammam,Sea Freight,Aramex,10499,8015.6,5920.03,0.7386,0.5639,12.6,1
+TR00825,2023-01-09,Shanghai,Madinah,Road Transport,Saudi Post Logistics,9999,2070.2,1939.51,0.9369,0.194,10.1,0
+TR00826,2024-01-20,Jeddah,Madinah,Rail,NAQEL Express,1254,7230.9,3091.07,0.4275,2.465,10.4,1
+TR00827,2023-05-02,Jeddah,Madinah,Road Transport,NAQEL Express,6543,1753.5,1000.85,0.5708,0.153,15.6,1
+TR00828,2024-09-17,Jeddah,Jubail,Sea Freight,NAQEL Express,1360,7737.8,4591.85,0.5934,3.3764,9.6,0
+TR00829,2024-10-23,Dubai,Riyadh,Express Courier,Maersk Line,1874,7649.6,5169.83,0.6758,2.7587,10.3,1
+TR00830,2023-10-29,Mumbai,Jeddah,Air Freight,DHL Global,9700,1090.0,786.35,0.7214,0.0811,10.3,1
+TR00831,2024-05-10,Shanghai,Jubail,Rail,Agility Logistics,6269,3256.9,1441.66,0.4426,0.23,16.3,1
+TR00832,2024-01-22,Istanbul,Dammam,Road Transport,Maersk Line,7249,458.5,690.38,1.5057,0.0952,17.7,1
+TR00833,2023-06-16,Jeddah,Riyadh,Air Freight,Maersk Line,9695,7371.5,5411.13,0.7341,0.5581,8.9,1
+TR00834,2023-11-10,Dubai,Jubail,Sea Freight,FedEx,5376,2066.0,1631.02,0.7895,0.3034,7.4,1
+TR00835,2023-12-16,Dubai,Dubai,Express Courier,DHL Global,11221,2102.7,1985.36,0.9442,0.1769,14.5,1
+TR00836,2024-12-07,Shanghai,Jubail,Sea Freight,Aramex,1147,6793.9,2958.0,0.4354,2.5789,4.9,0
+TR00837,2023-07-27,Dubai,Dubai,Rail,NAQEL Express,7443,5965.8,1636.63,0.2743,0.2199,12.0,1
+TR00838,2023-05-16,Riyadh,Madinah,Express Courier,Agility Logistics,9426,3707.6,1952.47,0.5266,0.2071,12.4,1
+TR00839,2024-12-21,Shanghai,Madinah,Sea Freight,DB Schenker,6107,3720.1,3392.95,0.9121,0.5556,8.4,1
+TR00840,2024-03-02,Riyadh,Dammam,Express Courier,DHL Global,1597,8813.2,2347.34,0.2663,1.4698,9.2,1
+TR00841,2024-03-25,Mumbai,Jeddah,Road Transport,Aramex,4267,3582.2,991.12,0.2767,0.2323,16.2,1
+TR00842,2023-09-13,Istanbul,Madinah,Road Transport,Agility Logistics,11272,2750.9,2282.98,0.8299,0.2025,4.8,1
+TR00843,2024-09-10,Dubai,Madinah,Air Freight,Maersk Line,10359,8678.4,4923.12,0.5673,0.4753,6.0,1
+TR00844,2024-11-02,Shanghai,Riyadh,Rail,FedEx,5336,1064.8,611.83,0.5746,0.1147,7.7,1
+TR00845,2023-09-15,Mumbai,Dubai,Road Transport,FedEx,907,7424.0,1145.02,0.1542,1.2624,9.3,1
+TR00846,2023-03-31,Dammam,Madinah,Sea Freight,Aramex,1184,9552.6,1445.69,0.1513,1.221,8.8,1
+TR00847,2024-12-20,Riyadh,Dammam,Express Courier,Maersk Line,7385,5518.1,2765.26,0.5011,0.3744,5.9,0
+TR00848,2023-05-08,Istanbul,Riyadh,Rail,FedEx,1071,9878.7,4851.68,0.4911,4.53,6.6,1
+TR00849,2024-01-27,Dammam,Dubai,Road Transport,Maersk Line,6373,9435.6,6677.23,0.7077,1.0477,12.5,0
+TR00850,2024-03-20,Istanbul,Riyadh,Sea Freight,NAQEL Express,4746,9240.4,3006.2,0.3253,0.6334,16.6,1
+TR00851,2024-08-05,Munich,Dubai,Rail,DB Schenker,4692,2149.6,612.54,0.285,0.1305,7.1,1
+TR00852,2024-01-25,Riyadh,Madinah,Sea Freight,Maersk Line,7478,6213.1,3154.22,0.5077,0.4218,5.7,1
+TR00853,2024-10-02,Jeddah,Madinah,Express Courier,DHL Global,942,7776.8,907.12,0.1166,0.963,14.7,1
+TR00854,2023-07-12,Munich,Jeddah,Air Freight,Saudi Post Logistics,128,9564.0,6115.76,0.6395,47.7794,9.5,1
+TR00855,2024-11-27,Dammam,Jeddah,Express Courier,Aramex,7481,5336.1,3161.16,0.5924,0.4226,14.6,1
+TR00856,2023-03-23,Shanghai,Madinah,Express Courier,FedEx,9086,4034.8,3282.55,0.8136,0.3613,14.9,1
+TR00857,2024-10-21,Munich,Dubai,Air Freight,DHL Global,2605,5712.0,4714.35,0.8253,1.8097,10.4,1
+TR00858,2024-11-07,Riyadh,Dubai,Air Freight,DB Schenker,9728,1041.1,684.22,0.6572,0.0703,11.5,1
+TR00859,2024-01-11,Istanbul,Madinah,Sea Freight,Agility Logistics,7024,3094.2,1513.45,0.4891,0.2155,11.2,1
+TR00860,2024-08-30,Riyadh,Riyadh,Air Freight,Maersk Line,11235,1925.6,2164.05,1.1238,0.1926,10.6,1
+TR00861,2023-07-21,Dammam,Dubai,Sea Freight,Agility Logistics,10677,9649.9,7972.49,0.8262,0.7467,7.6,0
+TR00862,2024-12-07,Munich,Dubai,Sea Freight,FedEx,1579,1414.7,848.31,0.5996,0.5372,4.3,1
+TR00863,2023-05-26,Jeddah,Dammam,Rail,Saudi Post Logistics,2766,9967.4,4691.13,0.4706,1.696,16.0,1
+TR00864,2024-03-13,Dubai,Jeddah,Air Freight,Aramex,1212,9676.4,5681.43,0.5871,4.6876,17.4,1
+TR00865,2023-12-08,Munich,Dubai,Express Courier,Maersk Line,4423,4880.7,3905.76,0.8002,0.8831,7.1,1
+TR00866,2024-01-22,Shanghai,Jeddah,Express Courier,NAQEL Express,9341,4575.3,4078.32,0.8914,0.4366,5.2,1
+TR00867,2024-01-30,Istanbul,Jubail,Express Courier,Maersk Line,1850,4202.6,1816.53,0.4322,0.9819,4.6,1
+TR00868,2023-10-01,Munich,Jubail,Air Freight,Aramex,2802,957.4,1035.31,1.0814,0.3695,13.1,1
+TR00869,2024-08-12,Mumbai,Jeddah,Rail,Agility Logistics,5751,1956.9,1449.88,0.7409,0.2521,16.0,1
+TR00870,2024-09-26,Mumbai,Dammam,Road Transport,NAQEL Express,5491,3614.6,2472.49,0.684,0.4503,16.2,0
+TR00871,2023-09-23,Dammam,Jubail,Rail,DHL Global,9265,7640.0,2149.73,0.2814,0.232,11.0,1
+TR00872,2024-05-13,Riyadh,Riyadh,Sea Freight,DB Schenker,8986,2878.5,2862.07,0.9943,0.3185,17.9,1
+TR00873,2023-08-18,Mumbai,Jubail,Rail,Agility Logistics,1944,832.0,739.05,0.8883,0.3802,7.8,1
+TR00874,2023-11-15,Dammam,Jeddah,Air Freight,Saudi Post Logistics,3150,9929.0,7519.22,0.7573,2.3871,17.7,1
+TR00875,2024-03-31,Dubai,Riyadh,Road Transport,FedEx,895,6237.6,884.54,0.1418,0.9883,5.6,0
+TR00876,2024-06-06,Jeddah,Madinah,Air Freight,Agility Logistics,9933,1282.8,1210.32,0.9435,0.1218,9.9,1
+TR00877,2023-09-08,Munich,Jeddah,Express Courier,NAQEL Express,11376,1621.3,2174.62,1.3413,0.1912,14.8,1
+TR00878,2023-11-02,Dubai,Jeddah,Road Transport,Maersk Line,5669,460.7,919.95,1.9969,0.1623,4.5,1
+TR00879,2023-02-18,Jeddah,Dubai,Express Courier,DHL Global,3853,9829.1,8256.54,0.84,2.1429,13.2,1
+TR00880,2023-06-03,Shanghai,Dubai,Sea Freight,NAQEL Express,4221,1908.5,1500.71,0.7863,0.3555,17.3,0
+TR00881,2023-09-16,Mumbai,Riyadh,Sea Freight,DHL Global,67,8832.9,4906.91,0.5555,73.2375,4.7,1
+TR00882,2023-07-27,Shanghai,Riyadh,Rail,DHL Global,4381,9424.8,6320.66,0.6706,1.4427,9.0,1
+TR00883,2024-05-18,Mumbai,Madinah,Air Freight,DB Schenker,8455,4791.0,1852.14,0.3866,0.2191,7.9,1
+TR00884,2024-09-24,Munich,Madinah,Rail,Agility Logistics,4033,1674.6,1356.11,0.8098,0.3363,9.4,1
+TR00885,2024-08-07,Munich,Dubai,Road Transport,Aramex,2587,2878.4,2147.74,0.7462,0.8302,9.7,1
+TR00886,2024-09-03,Istanbul,Jubail,Rail,Saudi Post Logistics,3647,4186.2,3458.21,0.8261,0.9482,14.3,1
+TR00887,2024-05-11,Dubai,Dubai,Road Transport,DHL Global,1039,4464.3,749.46,0.1679,0.7213,7.4,0
+TR00888,2024-02-23,Munich,Dubai,Sea Freight,NAQEL Express,10923,4888.5,1203.35,0.2462,0.1102,10.2,1
+TR00889,2024-01-05,Mumbai,Riyadh,Sea Freight,DB Schenker,9108,6382.2,4564.11,0.7151,0.5011,12.9,1
+TR00890,2024-07-31,Dubai,Riyadh,Express Courier,DB Schenker,5510,6692.4,2418.72,0.3614,0.439,4.3,1
+TR00891,2024-03-15,Munich,Madinah,Air Freight,Agility Logistics,7998,8515.3,1554.62,0.1826,0.1944,8.9,1
+TR00892,2024-04-11,Dammam,Madinah,Rail,FedEx,11728,606.2,887.05,1.4633,0.0756,16.6,1
+TR00893,2024-09-27,Riyadh,Riyadh,Road Transport,DB Schenker,3666,727.7,868.06,1.1929,0.2368,13.4,1
+TR00894,2023-02-21,Shanghai,Madinah,Air Freight,Aramex,2741,2601.5,1819.63,0.6995,0.6639,15.9,1
+TR00895,2024-03-21,Istanbul,Riyadh,Rail,DB Schenker,785,9523.9,2064.01,0.2167,2.6293,10.9,0
+TR00896,2024-12-28,Istanbul,Jubail,Air Freight,Maersk Line,122,2120.0,1481.39,0.6988,12.1425,14.4,1
+TR00897,2024-12-06,Munich,Madinah,Sea Freight,NAQEL Express,7464,3934.5,1939.46,0.4929,0.2598,6.6,1
+TR00898,2024-11-20,Jeddah,Jeddah,Express Courier,NAQEL Express,8412,3679.9,2391.44,0.6499,0.2843,17.9,1
+TR00899,2024-09-23,Dubai,Madinah,Express Courier,Agility Logistics,2097,8761.0,2204.39,0.2516,1.0512,8.4,1
+TR00900,2023-10-21,Riyadh,Dammam,Road Transport,DHL Global,6638,8278.1,3409.67,0.4119,0.5137,17.8,1
+TR00901,2024-07-20,Riyadh,Madinah,Sea Freight,NAQEL Express,11511,5099.7,3336.98,0.6543,0.2899,13.1,1
+TR00902,2024-06-30,Munich,Jeddah,Rail,Maersk Line,6013,1143.3,834.6,0.73,0.1388,8.3,1
+TR00903,2024-07-29,Dubai,Madinah,Express Courier,Saudi Post Logistics,2235,3300.3,452.91,0.1372,0.2026,15.3,1
+TR00904,2023-07-18,Jeddah,Madinah,Sea Freight,Maersk Line,9434,5362.3,2416.29,0.4506,0.2561,13.9,0
+TR00905,2024-02-04,Mumbai,Madinah,Air Freight,NAQEL Express,3623,8012.0,1535.35,0.1916,0.4238,16.5,1
+TR00906,2023-01-12,Istanbul,Riyadh,Express Courier,Saudi Post Logistics,8254,7633.6,1476.39,0.1934,0.1789,12.0,0
+TR00907,2024-11-06,Shanghai,Riyadh,Express Courier,Aramex,3959,2864.2,800.69,0.2796,0.2022,7.4,1
+TR00908,2024-11-01,Mumbai,Dubai,Sea Freight,Saudi Post Logistics,1581,3440.3,2857.82,0.8307,1.8076,16.0,1
+TR00909,2024-08-16,Mumbai,Madinah,Express Courier,NAQEL Express,11954,1025.0,1989.6,1.9411,0.1664,9.1,0
+TR00910,2023-02-01,Dammam,Riyadh,Air Freight,Agility Logistics,8941,4023.4,3422.42,0.8506,0.3828,12.7,0
+TR00911,2024-12-13,Dubai,Madinah,Road Transport,NAQEL Express,5301,1539.7,1326.62,0.8616,0.2503,5.2,1
+TR00912,2023-01-09,Shanghai,Jeddah,Road Transport,Maersk Line,8614,8328.0,3790.58,0.4552,0.44,12.2,1
+TR00913,2023-11-15,Shanghai,Jeddah,Air Freight,NAQEL Express,3356,339.8,263.46,0.7753,0.0785,9.0,1
+TR00914,2023-03-27,Dubai,Madinah,Sea Freight,DB Schenker,1687,230.8,398.63,1.7272,0.2363,16.7,1
+TR00915,2023-08-11,Jeddah,Dammam,Rail,Agility Logistics,8191,2105.7,1330.01,0.6316,0.1624,9.1,0
+TR00916,2023-03-18,Jeddah,Dammam,Express Courier,Saudi Post Logistics,3519,8918.6,3813.69,0.4276,1.0837,17.9,1
+TR00917,2024-02-05,Dubai,Riyadh,Express Courier,DB Schenker,5675,7734.8,5220.68,0.675,0.9199,13.9,1
+TR00918,2023-04-18,Riyadh,Jeddah,Rail,DHL Global,11790,3946.3,1763.62,0.4469,0.1496,7.4,1
+TR00919,2024-10-24,Dammam,Jubail,Air Freight,Aramex,10610,7781.2,2823.71,0.3629,0.2661,12.4,1
+TR00920,2024-03-02,Dubai,Dammam,Road Transport,Agility Logistics,2726,8404.3,6308.36,0.7506,2.3141,15.8,1
+TR00921,2024-11-28,Dubai,Dammam,Air Freight,Aramex,7538,7059.7,3715.42,0.5263,0.4929,3.6,1
+TR00922,2024-02-27,Riyadh,Madinah,Rail,Saudi Post Logistics,5068,3614.1,3271.61,0.9052,0.6455,11.6,1
+TR00923,2024-10-02,Mumbai,Dammam,Road Transport,Saudi Post Logistics,1185,4584.7,1082.56,0.2361,0.9136,7.5,1
+TR00924,2023-07-07,Munich,Jeddah,Express Courier,DB Schenker,8754,8942.8,4659.01,0.521,0.5322,4.1,0
+TR00925,2024-11-04,Mumbai,Madinah,Road Transport,Aramex,7809,9312.1,5754.65,0.618,0.7369,3.6,1
+TR00926,2024-10-30,Jeddah,Jeddah,Sea Freight,NAQEL Express,2606,9080.9,4389.98,0.4834,1.6846,3.8,0
+TR00927,2023-01-01,Dammam,Riyadh,Rail,DB Schenker,6391,9276.0,8090.45,0.8722,1.2659,10.9,1
+TR00928,2024-10-06,Dubai,Jubail,Express Courier,Saudi Post Logistics,7989,5387.9,1075.08,0.1995,0.1346,15.3,1
+TR00929,2023-09-20,Dubai,Madinah,Air Freight,DHL Global,10740,9784.4,5755.54,0.5882,0.5359,10.0,0
+TR00930,2023-11-02,Shanghai,Jubail,Road Transport,FedEx,11671,607.7,1450.75,2.3873,0.1243,17.2,1
+TR00931,2023-02-18,Dammam,Madinah,Air Freight,NAQEL Express,3731,5708.8,3777.48,0.6617,1.0125,16.6,1
+TR00932,2024-06-07,Mumbai,Jeddah,Rail,NAQEL Express,5117,4521.6,3138.91,0.6942,0.6134,3.4,0
+TR00933,2024-12-25,Mumbai,Riyadh,Sea Freight,Saudi Post Logistics,8831,8835.0,4713.19,0.5335,0.5337,7.7,0
+TR00934,2024-06-09,Istanbul,Riyadh,Sea Freight,Saudi Post Logistics,4953,1482.1,825.33,0.5569,0.1666,12.7,1
+TR00935,2024-11-29,Mumbai,Dammam,Sea Freight,NAQEL Express,7762,5148.0,3025.87,0.5878,0.3898,17.9,1
+TR00936,2024-11-07,Riyadh,Dubai,Express Courier,DHL Global,8777,889.1,1408.13,1.5838,0.1604,16.6,0
+TR00937,2023-08-08,Mumbai,Riyadh,Air Freight,Agility Logistics,5840,1628.8,1227.76,0.7538,0.2102,16.6,1
+TR00938,2023-11-25,Munich,Jeddah,Sea Freight,NAQEL Express,7290,4928.1,1335.56,0.271,0.1832,14.1,1
+TR00939,2023-02-11,Mumbai,Jubail,Road Transport,DB Schenker,1697,296.9,193.92,0.6531,0.1143,11.8,0
+TR00940,2023-06-09,Jeddah,Dubai,Air Freight,Aramex,3274,5361.5,2009.93,0.3749,0.6139,6.9,1
+TR00941,2023-09-15,Dubai,Jeddah,Express Courier,DB Schenker,2662,6409.1,3846.14,0.6001,1.4448,7.6,1
+TR00942,2023-10-28,Mumbai,Jeddah,Air Freight,DB Schenker,5950,1705.3,1385.47,0.8124,0.2329,12.1,1
+TR00943,2024-10-17,Shanghai,Riyadh,Express Courier,NAQEL Express,3362,3401.0,1879.55,0.5526,0.5591,15.7,0
+TR00944,2024-06-15,Mumbai,Jeddah,Air Freight,Aramex,3361,7678.7,1779.26,0.2317,0.5294,12.2,1
+TR00945,2023-04-11,Mumbai,Dammam,Express Courier,NAQEL Express,8920,6602.5,3826.72,0.5796,0.429,7.7,0
+TR00946,2024-05-14,Shanghai,Riyadh,Express Courier,Maersk Line,11144,3861.4,2632.01,0.6816,0.2362,15.6,1
+TR00947,2024-10-08,Dubai,Riyadh,Sea Freight,Aramex,3912,1906.8,859.54,0.4508,0.2197,16.2,1
+TR00948,2023-07-11,Shanghai,Dubai,Express Courier,Agility Logistics,10634,989.3,501.97,0.5074,0.0472,6.3,1
+TR00949,2023-12-19,Munich,Madinah,Express Courier,DB Schenker,1474,2892.2,2029.75,0.7018,1.377,13.9,1
+TR00950,2024-05-05,Dubai,Dammam,Road Transport,NAQEL Express,8715,6480.8,2934.6,0.4528,0.3367,14.5,1
+TR00951,2023-08-19,Shanghai,Dammam,Rail,NAQEL Express,9271,5582.0,1349.09,0.2417,0.1455,14.4,1
+TR00952,2023-12-20,Munich,Dammam,Air Freight,Maersk Line,10693,7161.9,3087.46,0.4311,0.2887,15.5,0
+TR00953,2023-10-05,Munich,Riyadh,Air Freight,DHL Global,4204,9831.3,7948.0,0.8084,1.8906,9.2,1
+TR00954,2024-02-25,Jeddah,Madinah,Air Freight,Aramex,11187,6640.1,4369.04,0.658,0.3905,14.1,1
+TR00955,2024-03-28,Mumbai,Riyadh,Road Transport,NAQEL Express,5514,4716.6,2491.22,0.5282,0.4518,9.6,1
+TR00956,2023-05-06,Shanghai,Riyadh,Rail,DB Schenker,5366,406.1,801.51,1.9737,0.1494,14.0,1
+TR00957,2023-12-08,Mumbai,Madinah,Air Freight,DHL Global,9052,3778.4,3455.81,0.9146,0.3818,11.9,1
+TR00958,2023-03-30,Istanbul,Dammam,Road Transport,NAQEL Express,8756,3330.5,2843.93,0.8539,0.3248,13.9,0
+TR00959,2024-09-19,Munich,Jubail,Air Freight,DHL Global,11792,9487.7,7575.4,0.7984,0.6424,14.8,1
+TR00960,2023-09-25,Mumbai,Dubai,Road Transport,Aramex,774,5052.6,1672.89,0.3311,2.1614,14.0,1
+TR00961,2024-07-28,Jeddah,Jeddah,Express Courier,Saudi Post Logistics,1828,9031.9,4044.72,0.4478,2.2126,4.8,1
+TR00962,2024-05-01,Dubai,Riyadh,Express Courier,Saudi Post Logistics,10331,3925.0,1727.06,0.44,0.1672,12.6,1
+TR00963,2023-12-31,Jeddah,Jeddah,Road Transport,Maersk Line,1414,4682.0,2821.83,0.6027,1.9956,4.5,1
+TR00964,2024-03-19,Shanghai,Riyadh,Air Freight,Saudi Post Logistics,4452,1269.7,860.84,0.678,0.1934,10.8,1
+TR00965,2024-02-13,Shanghai,Madinah,Rail,NAQEL Express,3356,8831.4,4628.01,0.524,1.379,8.7,1
+TR00966,2024-08-11,Dubai,Madinah,Road Transport,Aramex,5992,1525.5,944.13,0.6189,0.1576,9.8,0
+TR00967,2023-10-15,Istanbul,Dammam,Rail,DHL Global,10481,4626.9,4624.21,0.9994,0.4412,9.6,1
+TR00968,2024-11-24,Jeddah,Dammam,Rail,NAQEL Express,2970,5741.5,2294.78,0.3997,0.7727,15.3,1
+TR00969,2024-08-07,Jeddah,Madinah,Air Freight,Maersk Line,9835,8780.5,5279.35,0.6013,0.5368,6.1,1
+TR00970,2024-12-20,Dubai,Jeddah,Road Transport,NAQEL Express,9024,9082.3,2267.86,0.2497,0.2513,14.1,1
+TR00971,2023-05-25,Shanghai,Dammam,Rail,DB Schenker,1736,7375.8,4344.14,0.589,2.5024,8.7,1
+TR00972,2023-10-02,Mumbai,Madinah,Road Transport,FedEx,11945,390.8,763.35,1.9533,0.0639,11.8,1
+TR00973,2023-10-30,Mumbai,Dammam,Air Freight,Aramex,8403,5867.1,4084.39,0.6962,0.4861,10.3,0
+TR00974,2024-08-28,Istanbul,Riyadh,Sea Freight,NAQEL Express,2002,8144.0,3143.63,0.386,1.5702,16.7,1
+TR00975,2024-06-13,Dammam,Riyadh,Rail,Agility Logistics,11999,1629.1,2685.84,1.6487,0.2238,13.7,1
+TR00976,2023-10-12,Jeddah,Jubail,Road Transport,Agility Logistics,7828,2060.4,1835.35,0.8908,0.2345,9.4,1
+TR00977,2023-12-01,Istanbul,Riyadh,Sea Freight,Agility Logistics,2751,1335.1,741.94,0.5557,0.2697,5.8,1
+TR00978,2023-05-31,Dubai,Jeddah,Express Courier,FedEx,4086,747.9,538.14,0.7195,0.1317,10.2,1
+TR00979,2024-05-25,Munich,Dubai,Air Freight,NAQEL Express,9481,8658.7,5324.77,0.615,0.5616,14.8,1
+TR00980,2024-05-30,Shanghai,Dubai,Air Freight,DB Schenker,9248,3795.9,2625.58,0.6917,0.2839,11.9,1
+TR00981,2023-04-16,Dubai,Jeddah,Air Freight,DHL Global,2811,2922.4,879.33,0.3009,0.3128,13.1,1
+TR00982,2023-01-26,Dubai,Jeddah,Road Transport,FedEx,6945,1167.8,1195.19,1.0235,0.1721,13.0,1
+TR00983,2023-11-26,Mumbai,Dubai,Air Freight,NAQEL Express,7938,5213.3,2297.37,0.4407,0.2894,7.4,0
+TR00984,2024-12-17,Istanbul,Jubail,Road Transport,Maersk Line,4741,8612.1,5418.47,0.6292,1.1429,17.3,1
+TR00985,2023-06-28,Dammam,Jeddah,Air Freight,Agility Logistics,6862,5410.1,2650.0,0.4898,0.3862,13.4,1
+TR00986,2024-10-17,Munich,Riyadh,Rail,NAQEL Express,6806,4595.6,2232.93,0.4859,0.3281,15.1,1
+TR00987,2023-02-09,Dubai,Dammam,Rail,Agility Logistics,1060,5689.1,2151.62,0.3782,2.0298,10.4,1
+TR00988,2023-12-23,Riyadh,Riyadh,Road Transport,NAQEL Express,10248,4189.1,1216.87,0.2905,0.1187,9.7,0
+TR00989,2024-09-23,Munich,Jubail,Sea Freight,Agility Logistics,10624,5607.1,3760.21,0.6706,0.3539,16.0,1
+TR00990,2024-07-24,Jeddah,Madinah,Air Freight,DHL Global,102,5111.0,2270.51,0.4442,22.2599,9.0,1
+TR00991,2023-04-29,Mumbai,Jubail,Road Transport,Agility Logistics,9066,301.2,502.97,1.6699,0.0555,7.2,0
+TR00992,2023-10-08,Jeddah,Dubai,Sea Freight,FedEx,6522,2499.0,1730.81,0.6926,0.2654,5.7,0
+TR00993,2023-01-06,Jeddah,Madinah,Air Freight,Saudi Post Logistics,7847,9646.1,8171.99,0.8472,1.0414,14.6,1
+TR00994,2024-07-05,Munich,Riyadh,Sea Freight,DB Schenker,6039,183.2,574.48,3.1358,0.0951,11.4,1
+TR00995,2024-02-09,Mumbai,Jubail,Road Transport,Saudi Post Logistics,5259,9162.7,4084.06,0.4457,0.7766,8.9,1
+TR00996,2023-12-02,Mumbai,Jubail,Sea Freight,DHL Global,10164,611.0,1905.63,3.1189,0.1875,11.4,1
+TR00997,2024-10-13,Jeddah,Jubail,Road Transport,FedEx,8610,5569.4,2863.14,0.5141,0.3325,3.5,1
+TR00998,2023-01-13,Mumbai,Jubail,Air Freight,DB Schenker,4338,7140.3,4189.12,0.5867,0.9657,15.2,0
+TR00999,2024-11-08,Shanghai,Riyadh,Road Transport,DHL Global,10720,9408.7,7294.25,0.7753,0.6804,14.3,1
+TR01000,2024-01-07,Istanbul,Jeddah,Sea Freight,FedEx,6754,7401.1,4454.69,0.6019,0.6596,16.4,1
